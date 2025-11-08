@@ -1,0 +1,1200 @@
+utterance,intent,source_row
+Hello I would like to book a hotel room.,greeting,0
+Hello I'm looking to reserve a hotel room.,greeting,1
+Good day I need to book accommodation.,greeting,2
+I'd like to book a hotel room.,book_hotel,3
+I want to visit [City Name].,confirmation,4
+I will visit from [Check in Date] until [Check out Date].,confirmation,5
+I want to visit [City Name].,confirmation,6
+I will visit from [Check in Date] until [Check out Date].,confirmation,7
+I want to visit [City Name].,confirmation,8
+I will visit from [Check in Date] until [Check out Date].,confirmation,9
+I want to visit [City Name].,confirmation,10
+I will visit from [Check in Date] until [Check out Date].,confirmation,11
+I will visit from [Check in Date] until [Check out Date].,confirmation,12
+I need to make a hotel reservation.,confirmation,13
+I will visit from [Check in Date] until [Check out Date].,confirmation,14
+I want to visit [City Name].,confirmation,15
+I will visit from [Check in Date] until [Check out Date].,confirmation,16
+I will visit from [Check in Date] until [Check out Date].,confirmation,17
+I will visit from [Check in Date] until [Check out Date].,confirmation,18
+This is a great choice!,confirmation,19
+Yes my name is {name}. My email is {email} and my phone number is {phone number}.,confirmation,20
+"""Yes please. Book it for me.""",confirmation,21
+""" I need a healthy recipe for dinner.",confirmation,22
+""" What's the latest news on Mars exploration?",ask_info,23
+""" How can I fix a bug in my Python code that's causing a syntax error?",confirmation,24
+""" Can you play music?",confirmation,25
+""" What are the benefits of meditation?",ask_info,26
+""" What are the top programming languages to learn in 2024?",ask_info,27
+""" How can I improve my data analysis skills?",ask_info,28
+""" What's the best way to start learning about blockchain?",ask_info,29
+""" Can AI help in environmental conservation?",ask_info,30
+""" What are the latest trends in AI research?",ask_info,31
+""" How can I stay motivated while learning to code?",ask_info,32
+""" What's a simple explanation of quantum computing?",ask_info,33
+""" Can you recommend a good science fiction book?",ask_info,34
+""" What are effective strategies for time management?",ask_info,35
+""" How do neural networks work?",ask_info,36
+""" What are the top programming languages to learn in 2024?",ask_info,37
+How can I improve my data analysis skills?,ask_info,38
+Can AI help in environmental conservation?,ask_info,39
+What are the latest trends in AI research?,ask_info,40
+How can I stay motivated while learning to code?,ask_info,41
+What's a simple explanation of quantum computing?,ask_info,42
+Can you recommend a good science fiction book?,ask_info,43
+What are effective strategies for time management?,ask_info,44
+How do neural networks work?,ask_info,45
+What are the top programming languages to learn in 2024?,ask_info,46
+How can I improve my data analysis skills?,ask_info,47
+What's the best way to start learning about blockchain?,ask_info,48
+Can AI help in environmental conservation?,ask_info,49
+What are the latest trends in AI research?,ask_info,50
+How can I stay motivated while learning to code?,ask_info,51
+What's a simple explanation of quantum computing?,ask_info,52
+Can you recommend a good science fiction book?,ask_info,53
+"Can AI help in environmental conservation? ""Yes AI can significantly aid in environmental conservation by analyzing large datasets for climate modeling monitoring wildlife and optimizing energy consumption."" "" Can AI help in environmental conservation?",confirmation,54
+"What are the latest trends in AI research? ""Current trends in AI research include explainable AI (XAI) reinforcement learning federated learning for data privacy and AI for healthcare and drug discovery."" "" What are the latest trends in AI research?",confirmation,55
+"What's the best way to start learning about blockchain? ""Starting with the basics of how blockchain technology works reading authoritative articles and experimenting with simple blockchain projects can be effective ways to learn about blockchain."" "" What's the best way to start learning about blockchain?",confirmation,56
+"Can AI help in environmental conservation? ""Yes AI can significantly aid in environmental conservation by analyzing large datasets for climate modeling monitoring wildlife and optimizing energy consumption."" "" Can AI help in environmental conservation?",confirmation,57
+"What are the latest trends in AI research? ""Current trends in AI research include explainable AI (XAI) reinforcement learning federated learning for data privacy and AI for healthcare and drug discovery."" "" What are the latest trends in AI research?",confirmation,58
+Hello I would like to book a hotel room.,greeting,59
+Hello I'm looking to reserve a hotel room.,greeting,60
+Good day I need to book accommodation.,greeting,61
+I'd like to book a hotel room.,book_hotel,62
+I want to visit [City Name].,confirmation,63
+I will visit from [Check in Date] until [Check out Date].,confirmation,64
+I want to visit [City Name].,confirmation,65
+I will visit from [Check in Date] until [Check out Date].,confirmation,66
+I want to visit [City Name].,confirmation,67
+I will visit from [Check in Date] until [Check out Date].,confirmation,68
+I want to visit [City Name].,confirmation,69
+I will visit from [Check in Date] until [Check out Date].,confirmation,70
+I will visit from [Check in Date] until [Check out Date].,confirmation,71
+I need to make a hotel reservation.,confirmation,72
+I will visit from [Check in Date] until [Check out Date].,confirmation,73
+I want to visit [City Name].,confirmation,74
+I will visit from [Check in Date] until [Check out Date].,confirmation,75
+I will visit from [Check in Date] until [Check out Date].,confirmation,76
+I will visit from [Check in Date] until [Check out Date].,confirmation,77
+"""Hi I'm planning a"" trip to London and need a hotel. """,greeting,78
+"I'd like something in Westminster Borough London with a good rating. Budget is around ‰âÂåÊ256 per night.""",provide_location,79
+Does it include breakfast?,ask_info,80
+"""Yes please. Book it for me. """,confirmation,81
+"""Hi I'm planning a"" trip to London and need a hotel. """,greeting,82
+"I'd like something in Hackney London with a good rating. Budget is around ‰âÂåÊ122 per night. """,confirmation,83
+Does it include breakfast?,ask_info,84
+"""Yes please. Book it for me.""",confirmation,85
+"""Hi I'm planning a"" trip to London and need a hotel.""",greeting,86
+"I'd like something in Hammersmith and Fulham London with a good rating. Budget is around ‰âÂåÊ52 per night.""",confirmation,87
+Does it include breakfast?,ask_info,88
+"""Yes please. Book it for me.""",confirmation,89
+"""Hi I'm planning a"" trip to London and need a hotel.""",greeting,90
+"I'd like something in Acton London with a good rating. Budget is around ‰âÂåÊ76 per night. """,provide_location,91
+Does it include breakfast?,ask_info,92
+This is a great choice!,confirmation,93
+Yes my name is {name}. My email is {email} and my phone number is {phone number}.,confirmation,94
+"""Yes please. Book it for me.""",confirmation,95
+"""Hi I'm planning a"" trip to London and need a hotel. """,greeting,96
+This is a great choice!,confirmation,97
+Yes my name is {name}. My email is {email} and my phone number is {phone number}.,confirmation,98
+"I'd like something in Lambeth London with a good rating. Budget is around ‰âÂåÊ124 per night.""",provide_location,99
+This is a great choice!,confirmation,100
+Yes my name is {name}. My email is {email} and my phone number is {phone number}.,confirmation,101
+Does it include breakfast?,ask_info,102
+"""Yes please. Book it for me. """,confirmation,103
+Yes my name is {name}. My email is {email} and my phone number is {phone number}.,confirmation,104
+"""Hi I'm planning a"" trip to London and need a hotel. """,greeting,105
+"I'd like something in Lambeth London with a good rating. Budget is around ‰âÂåÊ92 per night. """,provide_location,106
+Great! Please book it for me!,confirmation,107
+Yes my name is [Name]. You can reach me at [Email] and [Phone Number].,confirmation,108
+Does it include breakfast?,ask_info,109
+"""Yes please. Book it for me. """,confirmation,110
+Yes my name is [Name]. You can reach me at [Email] and [Phone Number].,confirmation,111
+"""Hi I'm planning a"" trip to London and need a hotel. """,greeting,112
+"I'd like something in Kensington and Chelsea London with a good rating. Budget is around ‰âÂåÊ76 per night. """,confirmation,113
+"I'd like something in Lambeth London with a good rating. Budget is around ‰âÂåÊ92 per night. """,provide_location,114
+Great! Please book it for me!,confirmation,115
+Does it include breakfast?,ask_info,116
+Yes my name is [Name]. You can reach me at [Email] and [Phone Number].,confirmation,117
+"""Hi I'm planning a"" trip to London and need a hotel. """,greeting,118
+"I'd like something in Westminster Borough London with a good rating. Budget is around ‰âÂåÊ76 per night.""",provide_location,119
+Does it include breakfast?,ask_info,120
+This is a great choice!,confirmation,121
+Yes my name is {name}. My email is {email} and my phone number is {phone number}.,confirmation,122
+"I'd like something in Camden London with a good rating. Budget is around ‰âÂåÊ37 per night. """,provide_location,123
+Does it include breakfast?,ask_info,124
+"""Yes please. Book it for me.""",confirmation,125
+"""Hi I'm planning a"" trip to London and need a hotel. """,greeting,126
+"I'd like something in Westminster Borough London with a good rating. Budget is around ‰âÂåÊ65 per night.""",provide_location,127
+Does it include breakfast?,ask_info,128
+"""Yes please. Book it for me.""",confirmation,129
+"""Hi I'm planning a"" trip to London and need a hotel.""",greeting,130
+"I'd like something in Tower Hamlets London with a good rating. Budget is around ‰âÂåÊ66 per night.""",confirmation,131
+Does it include breakfast?,ask_info,132
+"""Yes please. Book it for me.""",confirmation,133
+"""Hi I'm planning a"" trip to London and need a hotel.""",greeting,134
+"I'd like something in Tower Hamlets London with a good rating. Budget is around ‰âÂåÊ21 per night.""",confirmation,135
+Does it include breakfast?,ask_info,136
+"""Yes please. Book it for me.""",confirmation,137
+"""Hi I'm planning a"" trip to London and need a hotel.""",greeting,138
+"I'd like something in Westminster Borough London with a good rating. Budget is around ‰âÂåÊ82 per night.""",provide_location,139
+Does it include breakfast?,ask_info,140
+"""Yes please. Book it for me.""",confirmation,141
+"""Hi I'm planning a"" trip to London and need a hotel.""",greeting,142
+"I'd like something in City of London London with a good rating. Budget is around ‰âÂåÊ162 per night.""",confirmation,143
+Does it include breakfast?,ask_info,144
+"""Yes please. Book it for me.""",confirmation,145
+"""Hi I'm planning a"" trip to London and need a hotel.""",greeting,146
+"I'd like something in Tower Hamlets London with a good rating. Budget is around ‰âÂåÊ19 per night.""",confirmation,147
+Does it include breakfast?,ask_info,148
+"""Yes please. Book it for me.""",confirmation,149
+"""Hi I'm planning a"" trip to London and need a hotel.""",greeting,150
+"I'd like something in Westminster Borough London with a good rating. Budget is around ‰âÂåÊ122 per night.""",provide_location,151
+Does it include breakfast?,ask_info,152
+"""Yes please. Book it for me.""",confirmation,153
+"""Hi I'm planning a"" trip to London and need a hotel.""",greeting,154
+"I'd like something in Westminster Borough London with a good rating. Budget is around ‰âÂåÊ63 per night.""",confirmation,155
+Does it include breakfast?,ask_info,156
+"""Yes please. Book it for me.""",confirmation,157
+"""Hi I'm planning a"" trip to London and need a hotel.""",greeting,158
+"I'd like something in Westminster Borough London with a good rating. Budget is around ‰âÂåÊ87 per night.""",provide_location,159
+Does it include breakfast?,ask_info,160
+"""Yes please. Book it for me.""",confirmation,161
+"""Hi I'm planning a"" trip to London and need a hotel.""",greeting,162
+"I'd like something in Westminster Borough London with a good rating. Budget is around ‰âÂåÊ70 per night.""",confirmation,163
+Does it include breakfast?,ask_info,164
+"""Yes please. Book it for me.""",confirmation,165
+"""Hi I'm planning a"" trip to London and need a hotel.""",greeting,166
+"I'd like something in Westminster Borough London with a good rating. Budget is around ‰âÂåÊ186 per night. """,provide_location,167
+Does it include breakfast?,ask_info,168
+"""Yes please. Book it for me.""",confirmation,169
+"""Hi I'm planning a"" trip to London and need a hotel.""",greeting,170
+"I'd like something in Westminster Borough London with a good rating. Budget is around ‰âÂåÊ80 per night.""",confirmation,171
+Does it include breakfast?,ask_info,172
+"""Yes please. Book it for me.""",confirmation,173
+"""Hi I'm planning a"" trip to London and need a hotel.""",greeting,174
+"I'd like something in Islington London with a good rating. Budget is around ‰âÂåÊ135 per night.""",provide_location,175
+Does it include breakfast?,ask_info,176
+"""Yes please. Book it for me.""",confirmation,177
+"""Hi I'm planning a"" trip to London and need a hotel.""",greeting,178
+"I'd like something in City of London London with a good rating. Budget is around ‰âÂåÊ199 per night.""",provide_location,179
+Does it include breakfast?,ask_info,180
+"""Yes please. Book it for me.""",confirmation,181
+"""Hi I'm planning a"" trip to London and need a hotel.""",greeting,182
+"I'd like something in Westminster Borough London with a good rating. Budget is around ‰âÂåÊ111 per night.""",provide_location,183
+Does it include breakfast?,ask_info,184
+"""Yes please. Book it for me.""",confirmation,185
+"""Hi I'm planning a"" trip to London and need a hotel.""",greeting,186
+"I'd like something in Westminster Borough London with a good rating. Budget is around ‰âÂåÊ163 per night.""",confirmation,187
+Does it include breakfast?,ask_info,188
+"""Yes please. Book it for me.""",confirmation,189
+"""Hi I'm planning a"" trip to Luxembourg and need a hotel.""",greeting,190
+"I'd like something in Luxembourg with a good rating. Budget is around ‰âÂåÊ180 per night.""",confirmation,191
+Does it include breakfast?,ask_info,192
+"""Yes please. Book it for me.""",confirmation,193
+"""Hi I'm planning a"" trip to Luxembourg and need a hotel.""",greeting,194
+"I'd like something in Luxembourg with a good rating. Budget is around ‰âÂåÊ95 per night.""",provide_location,195
+Does it include breakfast?,ask_info,196
+"""Yes please. Book it for me.""",confirmation,197
+"""Hi I'm planning a"" trip to Luxembourg and need a hotel.""",greeting,198
+"""I'd like something in Gare "" Luxembourg with a good rating. Budget is around ‰âÂåÊ113 per night.""",confirmation,199
+Does it include breakfast?,ask_info,200
+"""Yes please. Book it for me. """,confirmation,201
+"""Hi I'm planning a"" trip to London and need a hotel. """,greeting,202
+"I'd like something in Westminster Borough London with a good rating. Budget is around â¬Â 80 per night. """,provide_location,203
+Does it include breakfast?,ask_info,204
+"""Yes please. Book it for me.""",confirmation,205
+"""Hi I'm planning a"" trip to London and need a hotel. """,greeting,206
+"I'd like something in Islington London with a good rating. Budget is around â¬Â 135 per night.""",provide_location,207
+Does it include breakfast?,ask_info,208
+"""Yes please. Book it for me.""",confirmation,209
+"""Hi I'm planning a"" trip to London and need a hotel. """,greeting,210
+"I'd like something in City of London London with a good rating. Budget is around â¬Â 199 per night.""",provide_location,211
+Does it include breakfast?,ask_info,212
+"""Yes please. Book it for me.""",confirmation,213
+"""Hi I'm planning a"" trip to London and need a hotel.""",greeting,214
+"I'd like something in Westminster Borough London with a good rating. Budget is around â¬Â 111 per night.""",provide_location,215
+Does it include breakfast?,ask_info,216
+"""Yes please. Book it for me.""",confirmation,217
+"""Hi I'm planning a"" trip to London and need a hotel.""",greeting,218
+"I'd like something in Westminster Borough London with a good rating. Budget is around â¬Â 163 per night.""",provide_location,219
+Does it include breakfast?,ask_info,220
+"""Yes please. Book it for me.""",confirmation,221
+"""Hi I'm planning a"" trip to Luxembourg and need a hotel.""",greeting,222
+"I'd like something in Luxembourg with a good rating. Budget is around â¬Â 180 per night.""",confirmation,223
+Does it include breakfast?,ask_info,224
+"""Yes please. Book it for me.""",confirmation,225
+"""Hi I'm planning a"" trip to Luxembourg and need a hotel.""",greeting,226
+"I'd like something in Luxembourg with a good rating. Budget is around â¬Â 95 per night.""",confirmation,227
+Does it include breakfast?,ask_info,228
+"""Yes please. Book it for me.""",confirmation,229
+"""Hi I'm planning a"" trip to Luxembourg and need a hotel.""",greeting,230
+"""I'd like something in Gare "" Luxembourg with a good rating. Budget is around â¬Â 113 per night.""",confirmation,231
+Does it include breakfast?,ask_info,232
+"""Yes please. Book it for me.""",confirmation,233
+"""Hi I'm planning a"" trip to Luxembourg and need a hotel.""",greeting,234
+"""I'd like something in Gare "" Luxembourg with a good rating. Budget is around â¬Â 148 per night.""",confirmation,235
+Does it include breakfast?,ask_info,236
+"""Yes please. Book it for me.""",confirmation,237
+"""Hi I'm planning a"" trip to Luxembourg and need a hotel.""",greeting,238
+"I'd like something in Grund Luxembourg with a good rating. Budget is around â¬Â 72 per night.""",provide_location,239
+Does it include breakfast?,ask_info,240
+"""Yes please. Book it for me.""",confirmation,241
+"""Hi I'm planning a"" trip to Luxembourg and need a hotel.""",greeting,242
+"I'd like something in Ville Haute Luxembourg with a good rating. Budget is around â¬Â 181 per night.""",confirmation,243
+Does it include breakfast?,ask_info,244
+"""Yes please. Book it for me.""",confirmation,245
+"""Hi I'm planning a"" trip to Luxembourg and need a hotel.""",greeting,246
+"I'd like something in Luxembourg with a good rating. Budget is around â¬Â 129 per night.""",confirmation,247
+Does it include breakfast?,ask_info,248
+"""Yes please. Book it for me.""",confirmation,249
+"""Hi I'm planning a"" trip to Luxembourg and need a hotel.""",greeting,250
+"I'd like something in Luxembourg with a good rating. Budget is around â¬Â 119 per night.""",confirmation,251
+Does it include breakfast?,ask_info,252
+"""Yes please. Book it for me.""",confirmation,253
+"""Hi I'm planning a"" trip to Luxembourg and need a hotel.""",greeting,254
+"I'd like something in Luxembourg with a good rating. Budget is around â¬Â 95 per night.""",confirmation,255
+Does it include breakfast?,ask_info,256
+"""Yes please. Book it for me.""",confirmation,257
+"""Hi I'm planning a"" trip to Luxembourg and need a hotel.""",greeting,258
+"I'd like something in Ville Haute Luxembourg with a good rating. Budget is around â¬Â 270 per night.""",provide_location,259
+Does it include breakfast?,ask_info,260
+"""Yes please. Book it for me.""",confirmation,261
+"""Hi I'm planning a"" trip to Luxembourg and need a hotel.""",greeting,262
+"I'd like something in Belair Luxembourg with a good rating. Budget is around â¬Â 85 per night.""",confirmation,263
+Does it include breakfast?,ask_info,264
+"""Yes please. Book it for me.""",confirmation,265
+"""Hi I'm planning a"" trip to Luxembourg and need a hotel.""",greeting,266
+"I'd like something in Luxembourg with a good rating. Budget is around â¬Â 107 per night.""",confirmation,267
+Does it include breakfast?,ask_info,268
+"""Yes please. Book it for me.""",confirmation,269
+"""Hi I'm planning a"" trip to Luxembourg and need a hotel.""",greeting,270
+"""I'd like something in Gare "" Luxembourg with a good rating. Budget is around â¬Â 124 per night.""",confirmation,271
+Does it include breakfast?,ask_info,272
+"""Yes please. Book it for me.""",confirmation,273
+"""Hi I'm planning a"" trip to Luxembourg and need a hotel.""",greeting,274
+"I'd like something in Luxembourg with a good rating. Budget is around â¬Â 121 per night.""",confirmation,275
+Does it include breakfast?,ask_info,276
+"""Yes please. Book it for me.""",confirmation,277
+"""Hi I'm planning a"" trip to Luxembourg and need a hotel.""",greeting,278
+"""I'd like something in Gare "" Luxembourg with a good rating. Budget is around â¬Â 193 per night.""",confirmation,279
+Does it include breakfast?,ask_info,280
+"""Yes please. Book it for me.""",confirmation,281
+"""Hi I'm planning a"" trip to Luxembourg and need a hotel.",greeting,282
+"""I'd like something in Gare "" Luxembourg with a good rating. Budget is around â¬Â 133 per night.",confirmation,283
+Does it include breakfast?,ask_info,284
+"""Yes please. Book it for me.""",confirmation,285
+"""Hi I'm planning a"" trip to Luxembourg and need a hotel.""",greeting,286
+"""I'd like something in Gare "" Luxembourg with a good rating. Budget is around â¬Â 128 per night.""",confirmation,287
+Does it include breakfast?,ask_info,288
+"""Yes please. Book it for me.""",confirmation,289
+"""Hi I'm planning a"" trip to Luxembourg and need a hotel.""",greeting,290
+"I'd like something in Luxembourg with a good rating. Budget is around â¬Â 104 per night.""",confirmation,291
+Does it include breakfast?,ask_info,292
+"""Yes please. Book it for me.""",confirmation,293
+"""Hi I'm planning a"" trip to Luxembourg and need a hotel.""",greeting,294
+"I'd like something in Luxembourg with a good rating. Budget is around â¬Â 103 per night.""",confirmation,295
+Does it include breakfast?,ask_info,296
+"""Yes please. Book it for me.""",confirmation,297
+"""Hi I'm planning a"" trip to Luxembourg and need a hotel.""",greeting,298
+"I'd like something in Bonnevoie Luxembourg with a good rating. Budget is around â¬Â 215 per night.""",provide_location,299
+Does it include breakfast?,ask_info,300
+"""Yes please. Book it for me.""",confirmation,301
+"""Hi I'm planning a"" trip to Luxembourg and need a hotel.""",greeting,302
+"""I'd like something in Gare "" Luxembourg with a good rating. Budget is around â¬Â 112 per night.""",confirmation,303
+Does it include breakfast?,ask_info,304
+"""Yes please. Book it for me.""",confirmation,305
+"""Hi I'm planning a"" trip to Luxembourg and need a hotel.""",greeting,306
+"I'd like something in Luxembourg with a good rating. Budget is around â¬Â 66 per night.""",confirmation,307
+Does it include breakfast?,ask_info,308
+"""Yes please. Book it for me.""",confirmation,309
+"""Hi I'm planning a"" trip to Luxembourg and need a hotel.""",greeting,310
+"I'd like something in Luxembourg with a good rating. Budget is around â¬Â 72 per night.""",confirmation,311
+Does it include breakfast?,ask_info,312
+"""Yes please. Book it for me.""",confirmation,313
+"""Hi I'm planning a"" trip to Luxembourg and need a hotel.""",greeting,314
+"I'd like something in Bonnevoie Luxembourg with a good rating. Budget is around â¬Â 152 per night.""",provide_location,315
+Does it include breakfast?,ask_info,316
+"""Yes please. Book it for me.""",confirmation,317
+"""Hi I'm planning a"" trip to Luxembourg and need a hotel.""",greeting,318
+"""I'd like something in Gare "" Luxembourg with a good rating. Budget is around â¬Â 145 per night.""",confirmation,319
+Does it include breakfast?,ask_info,320
+"""Yes please. Book it for me.""",confirmation,321
+"""Hi I'm planning a"" trip to Porto and need a hotel.""",greeting,322
+"I'd like something in UniÃ£o de Freguesias do Centro Porto with a good rating. Budget is around â¬Â 86 per night.""",provide_location,323
+Does it include breakfast?,ask_info,324
+"""Yes please. Book it for me.""",confirmation,325
+"""Hi I'm planning a"" trip to Porto and need a hotel.""",greeting,326
+"I'd like something in UniÃ£o de Freguesias do Centro Porto with a good rating. Budget is around â¬Â 94 per night.""",provide_location,327
+Does it include breakfast?,ask_info,328
+"""Yes please. Book it for me.""",confirmation,329
+"""Hi I'm planning a"" trip to Porto and need a hotel.""",greeting,330
+"I'd like something in UniÃ£o de Freguesias do Centro Porto with a good rating. Budget is around â¬Â 26 per night.""",provide_location,331
+Does it include breakfast?,ask_info,332
+"""Yes please. Book it for me.""",confirmation,333
+"""Hi I'm planning a"" trip to Porto and need a hotel.""",greeting,334
+"I'd like something in UniÃ£o de Freguesias do Centro Porto with a good rating. Budget is around â¬Â 24 per night.""",provide_location,335
+Does it include breakfast?,ask_info,336
+"""Yes please. Book it for me.""",confirmation,337
+"""Hi I'm planning a"" trip to Porto and need a hotel.""",greeting,338
+"I'd like something in UniÃ£o de Freguesias do Centro Porto with a good rating. Budget is around â¬Â 74 per night.""",provide_location,339
+Does it include breakfast?,ask_info,340
+"""Yes please. Book it for me.""",confirmation,341
+"""Hi I'm planning a"" trip to Porto and need a hotel.""",greeting,342
+"I'd like something in UniÃ£o de Freguesias do Centro Porto with a good rating. Budget is around â¬Â 26 per night.""",provide_location,343
+Does it include breakfast?,ask_info,344
+"""Yes please. Book it for me.""",confirmation,345
+"""Hi I'm planning a"" trip to Porto and need a hotel.""",greeting,346
+"I'd like something in UniÃ£o de Freguesias do Centro Porto with a good rating. Budget is around â¬Â 41 per night.""",provide_location,347
+Does it include breakfast?,ask_info,348
+"""Yes please. Book it for me.""",confirmation,349
+"""Hi I'm planning a"" trip to Porto and need a hotel.""",greeting,350
+"I'd like something in UniÃ£o de Freguesias do Centro Porto with a good rating. Budget is around â¬Â 67 per night.""",provide_location,351
+Does it include breakfast?,ask_info,352
+"""Yes please. Book it for me.""",confirmation,353
+"""Hi I'm planning a"" trip to Porto and need a hotel.""",greeting,354
+"I'd like something in UniÃ£o de Freguesias do Centro Porto with a good rating. Budget is around â¬Â 48 per night.""",provide_location,355
+Does it include breakfast?,ask_info,356
+"""Yes please. Book it for me.""",confirmation,357
+"""Hi I'm planning a"" trip to Porto and need a hotel.""",greeting,358
+"I'd like something in UniÃ£o de Freguesias do Centro Porto with a good rating. Budget is around â¬Â 52 per night.""",provide_location,359
+Does it include breakfast?,ask_info,360
+"""Yes please. Book it for me.""",confirmation,361
+"""Hi I'm planning a"" trip to Porto and need a hotel.""",greeting,362
+"I'd like something in UniÃ£o de Freguesias do Centro Porto with a good rating. Budget is around â¬Â 60 per night.""",provide_location,363
+Does it include breakfast?,ask_info,364
+"""Yes please. Book it for me.""",confirmation,365
+"""Hi I'm planning a"" trip to Porto and need a hotel.""",greeting,366
+"I'd like something in UniÃ£o de Freguesias do Centro Porto with a good rating. Budget is around â¬Â 55 per night.""",provide_location,367
+Does it include breakfast?,ask_info,368
+"""Yes please. Book it for me.""",confirmation,369
+"""Hi I'm planning a"" trip to Porto and need a hotel.""",greeting,370
+"I'd like something in Bonfim Porto with a good rating. Budget is around â¬Â 27 per night.""",provide_location,371
+Does it include breakfast?,ask_info,372
+"""Yes please. Book it for me.""",confirmation,373
+"""Hi I'm planning a"" trip to Porto and need a hotel.""",greeting,374
+"I'd like something in Bonfim Porto with a good rating. Budget is around â¬Â 41 per night.""",provide_location,375
+Does it include breakfast?,ask_info,376
+"""Yes please. Book it for me.""",confirmation,377
+"""Hi I'm planning a"" trip to Porto and need a hotel.""",greeting,378
+"I'd like something in UniÃ£o de Freguesias do Centro Porto with a good rating. Budget is around â¬Â 87 per night.""",provide_location,379
+Does it include breakfast?,ask_info,380
+"""Yes please. Book it for me.""",confirmation,381
+"""Hi I'm planning a"" trip to Porto and need a hotel.""",greeting,382
+"I'd like something in UniÃ£o de Freguesias do Centro Porto with a good rating. Budget is around â¬Â 75 per night.""",provide_location,383
+Does it include breakfast?,ask_info,384
+"""Yes please. Book it for me.""",confirmation,385
+"""Hi I'm planning a"" trip to Porto and need a hotel.""",greeting,386
+"I'd like something in Bonfim Porto with a good rating. Budget is around â¬Â 50 per night.""",provide_location,387
+Does it include breakfast?,ask_info,388
+"""Yes please. Book it for me.""",confirmation,389
+"""Hi I'm planning a"" trip to Porto and need a hotel.""",greeting,390
+"I'd like something in UniÃ£o de Freguesias do Centro Porto with a good rating. Budget is around â¬Â 46 per night.""",provide_location,391
+Does it include breakfast?,ask_info,392
+"""Yes please. Book it for me.""",confirmation,393
+"""Hi I'm planning a"" trip to Porto and need a hotel.""",greeting,394
+"I'd like something in UniÃ£o de Freguesias do Centro Porto with a good rating. Budget is around â¬Â 45 per night.""",provide_location,395
+Does it include breakfast?,ask_info,396
+"""Yes please. Book it for me.""",confirmation,397
+"""Hi I'm planning a"" trip to Porto and need a hotel.""",greeting,398
+"I'd like something in UniÃ£o de Freguesias do Centro Porto with a good rating. Budget is around â¬Â 80 per night.""",provide_location,399
+Does it include breakfast?,ask_info,400
+"""Yes please. Book it for me.""",confirmation,401
+"""Hi I'm planning a"" trip to Porto and need a hotel.""",greeting,402
+"I'd like something in UniÃ£o de Freguesias do Centro Porto with a good rating. Budget is around â¬Â 69 per night.""",provide_location,403
+Does it include breakfast?,ask_info,404
+"""Yes please. Book it for me.""",confirmation,405
+"""Hi I'm planning a"" trip to Porto and need a hotel.""",greeting,406
+"I'd like something in Paranhos Porto with a good rating. Budget is around â¬Â 50 per night.""",provide_location,407
+Does it include breakfast?,ask_info,408
+"""Yes please. Book it for me.""",confirmation,409
+"""Hi I'm planning a"" trip to Porto and need a hotel.""",greeting,410
+"I'd like something in UniÃ£o de Freguesias do Centro Porto with a good rating. Budget is around â¬Â 31 per night.""",provide_location,411
+Does it include breakfast?,ask_info,412
+"""Yes please. Book it for me.""",confirmation,413
+"""Hi I'm planning a"" trip to Porto and need a hotel.""",greeting,414
+"I'd like something in UniÃ£o de Freguesias do Centro Porto with a good rating. Budget is around â¬Â 52 per night.""",provide_location,415
+Does it include breakfast?,ask_info,416
+"""Yes please. Book it for me.""",confirmation,417
+"""Hi I'm planning a"" trip to Porto and need a hotel.""",greeting,418
+"I'd like something in UniÃ£o de Freguesias do Centro Porto with a good rating. Budget is around â¬Â 91 per night.""",provide_location,419
+Does it include breakfast?,ask_info,420
+"""Yes please. Book it for me.""",confirmation,421
+"""Hi I'm planning a"" trip to Barcelona and need a hotel.""",greeting,422
+"I'd like something in SarriÃ -St. Gervasi Barcelona with a good rating. Budget is around â¬Â 309 per night.""",confirmation,423
+Does it include breakfast?,ask_info,424
+"""Yes please. Book it for me.""",confirmation,425
+"""Hi I'm planning a"" trip to Barcelona and need a hotel.""",greeting,426
+"I'd like something in Sants-MontjuÃ¯c Barcelona with a good rating. Budget is around â¬Â 194 per night.""",confirmation,427
+Does it include breakfast?,ask_info,428
+"""Yes please. Book it for me.""",confirmation,429
+"""Hi I'm planning a"" trip to Barcelona and need a hotel. """,greeting,430
+"I'd like something in Ciutat Vella Barcelona with a good rating. Budget is around â¬Â 60 per night. """,confirmation,431
+Does it include breakfast?,ask_info,432
+"""Hi I'm planning a"" trip to Barcelona and need a hotel.""",greeting,433
+"I'd like something in Eixample Barcelona with a good rating. Budget is around â¬Â 145 per night.""",provide_location,434
+"""Hi I'm planning a"" trip to Barcelona and need a hotel.""",greeting,435
+"I'd like something in Eixample Barcelona with a good rating. Budget is around â¬Â 114 per night.""",provide_location,436
+"""Hi I'm planning a"" trip to Barcelona and need a hotel.""",greeting,437
+"I'd like something in Eixample Barcelona with a good rating. Budget is around â¬Â 120 per night.""",provide_location,438
+"""Hi I'm planning a"" trip to Barcelona and need a hotel.""",greeting,439
+"I'd like something in Eixample Barcelona with a good rating. Budget is around â¬Â 103 per night.""",provide_location,440
+"""Hi I'm planning a"" trip to Barcelona and need a hotel.""",greeting,441
+"I'd like something in Eixample Barcelona with a good rating. Budget is around â¬Â 180 per night.""",provide_location,442
+"""Hi I'm planning a"" trip to Barcelona and need a hotel.""",greeting,443
+"I'd like something in Eixample Barcelona with a good rating. Budget is around â¬Â 175 per night.""",provide_location,444
+"""Hi I'm planning a"" trip to Barcelona and need a hotel.""",greeting,445
+"I'd like something in GrÃ cia Barcelona with a good rating. Budget is around â¬Â 88 per night.""",provide_location,446
+"""Hi I'm planning a"" trip to Barcelona and need a hotel.""",greeting,447
+"I'd like something in Ciutat Vella Barcelona with a good rating. Budget is around â¬Â 155 per night.""",provide_location,448
+Does it include breakfast?,ask_info,449
+"""Yes please. Book it for me.""",confirmation,450
+"""Hi I'm planning a"" trip to Barcelona and need a hotel.""",greeting,451
+"I'd like something in Ciutat Vella Barcelona with a good rating. Budget is around â¬Â 150 per night.""",provide_location,452
+"""Hi I'm planning a"" trip to Barcelona and need a hotel.""",greeting,453
+"I'd like something in Ciutat Vella Barcelona with a good rating. Budget is around â¬Â 214 per night.""",provide_location,454
+"""Hi I'm planning a"" trip to Barcelona and need a hotel.""",greeting,455
+"I'd like something in Eixample Barcelona with a good rating. Budget is around â¬Â 143 per night.""",provide_location,456
+"""Hi I'm planning a"" trip to Barcelona and need a hotel.""",greeting,457
+"I'd like something in Ciutat Vella Barcelona with a good rating. Budget is around â¬Â 120 per night.""",provide_location,458
+"""Hi I'm planning a"" trip to Barcelona and need a hotel.""",greeting,459
+"I'd like something in Ciutat Vella Barcelona with a good rating. Budget is around â¬Â 150 per night.""",provide_location,460
+"""Hi I'm planning a"" trip to Barcelona and need a hotel.""",greeting,461
+"I'd like something in Sants-MontjuÃ¯c Barcelona with a good rating. Budget is around â¬Â 104 per night.""",confirmation,462
+"""Hi I'm planning a"" trip to Barcelona and need a hotel.""",greeting,463
+"I'd like something in Ciutat Vella Barcelona with a good rating. Budget is around â¬Â 163 per night.""",provide_location,464
+"""Hi I'm planning a"" trip to Barcelona and need a hotel.""",greeting,465
+"I'd like something in Ciutat Vella Barcelona with a good rating. Budget is around â¬Â 141 per night.""",provide_location,466
+"""Hi I'm planning a"" trip to Barcelona and need a hotel.""",greeting,467
+"I'd like something in Eixample Barcelona with a good rating. Budget is around â¬Â 131 per night.""",provide_location,468
+"""Hi I'm planning a"" trip to Barcelona and need a hotel.""",greeting,469
+"I'd like something in Ciutat Vella Barcelona with a good rating. Budget is around â¬Â 168 per night.""",provide_location,470
+Does it include breakfast?,ask_info,471
+"""Yes please. Book it for me.""",confirmation,472
+"""Hi I'm planning a"" trip to Barcelona and need a hotel.""",greeting,473
+"I'd like something in Sant MartÃ­ Barcelona with a good rating. Budget is around â¬Â 159 per night.""",provide_location,474
+Does it include breakfast?,ask_info,475
+"""Yes please. Book it for me.""",confirmation,476
+"""Hi I'm planning a"" trip to Barcelona and need a hotel.""",greeting,477
+"I'd like something in Eixample Barcelona with a good rating. Budget is around â¬Â 193 per night.""",provide_location,478
+Does it include breakfast?,ask_info,479
+"""Yes please. Book it for me.""",confirmation,480
+"""Hi I'm planning a"" trip to Barcelona and need a hotel.""",greeting,481
+"I'd like something in Eixample Barcelona with a good rating. Budget is around â¬Â 167 per night.""",provide_location,482
+Does it include breakfast?,ask_info,483
+"""Yes please. Book it for me.""",confirmation,484
+"""Hi I'm planning a"" trip to Barcelona and need a hotel.""",greeting,485
+"I'd like something in Sant MartÃ­ Barcelona with a good rating. Budget is around â¬Â 172 per night.""",provide_location,486
+Does it include breakfast?,ask_info,487
+"""Yes please. Book it for me.""",confirmation,488
+"""Hi I'm planning a"" trip to Paris and need a hotel.""",greeting,489
+"I'd like something in 14th arr. Paris with a good rating. Budget is around $102 per night.""",provide_location,490
+"""Hi I'm planning a"" trip to Paris and need a hotel.""",greeting,491
+"I'd like something in 10th arr. Paris with a good rating. Budget is around $83 per night.""",provide_location,492
+"""Hi I'm planning a"" trip to Paris and need a hotel.""",greeting,493
+"I'd like something in 17th arr. Paris with a good rating. Budget is around $97 per night.""",provide_location,494
+"""Hi I'm planning a"" trip to Paris and need a hotel.""",greeting,495
+"I'd like something in 15th arr. Paris with a good rating. Budget is around $113 per night.""",provide_location,496
+"""Hi I'm planning a"" trip to Paris and need a hotel.""",greeting,497
+"I'd like something in 5th arr. Paris with a good rating. Budget is around $211 per night.""",provide_location,498
+"""Hi I'm planning a"" trip to Paris and need a hotel.""",greeting,499
+"I'd like something in 14th arr. Paris with a good rating. Budget is around $88 per night.""",provide_location,500
+"""Hi I'm planning a"" trip to Paris and need a hotel.""",greeting,501
+"I'd like something in 2nd arr. Paris with a good rating. Budget is around $171 per night.""",provide_location,502
+"""Hi I'm planning a"" trip to Paris and need a hotel.""",greeting,503
+"I'd like something in 9th arr. Paris with a good rating. Budget is around $125 per night.""",provide_location,504
+"""Hi I'm planning a"" trip to Paris and need a hotel.""",greeting,505
+"I'd like something in 6th arr. Paris with a good rating. Budget is around $142 per night.""",provide_location,506
+"""Hi I'm planning a"" trip to Paris and need a hotel.""",greeting,507
+"I'd like something in 17th arr. Paris with a good rating. Budget is around $78 per night.""",provide_location,508
+"""Hi I'm planning a"" trip to Paris and need a hotel.""",greeting,509
+"I'd like something in 2nd arr. Paris with a good rating. Budget is around $185 per night.""",provide_location,510
+Does it include breakfast?,ask_info,511
+"""Yes please. Book it for me.""",confirmation,512
+"""Hi I'm planning a"" trip to Paris and need a hotel.""",greeting,513
+"I'd like something in 9th arr. Paris with a good rating. Budget is around $96 per night.""",provide_location,514
+Does it include breakfast?,ask_info,515
+"""Yes please. Book it for me.""",confirmation,516
+"""Hi I'm planning a"" trip to Paris and need a hotel.""",greeting,517
+"I'd like something in 17th arr. Paris with a good rating. Budget is around $123 per night.""",provide_location,518
+"""Hi I'm planning a"" trip to Paris and need a hotel.""",greeting,519
+"I'd like something in 13th arr. Paris with a good rating. Budget is around $113 per night.""",provide_location,520
+"""Hi I'm planning a"" trip to Paris and need a hotel.""",greeting,521
+"I'd like something in 12th arr. Paris with a good rating. Budget is around $114 per night.""",provide_location,522
+"""Hi I'm planning a"" trip to Paris and need a hotel.""",greeting,523
+"I'd like something in 6th arr. Paris with a good rating. Budget is around $229 per night.""",provide_location,524
+"""Hi I'm planning a"" trip to Paris and need a hotel.""",greeting,525
+"I'd like something in 15th arr. Paris with a good rating. Budget is around $180 per night.""",provide_location,526
+"""Hi I'm planning a"" trip to Paris and need a hotel.""",greeting,527
+"I'd like something in 15th arr. Paris with a good rating. Budget is around $119 per night.""",provide_location,528
+"""Hi I'm planning a"" trip to Paris and need a hotel.""",greeting,529
+"I'd like something in 1st arr. Paris with a good rating. Budget is around $213 per night.""",provide_location,530
+"""Hi I'm planning a"" trip to Paris and need a hotel.""",greeting,531
+"I'd like something in 14th arr. Paris with a good rating. Budget is around $150 per night.""",provide_location,532
+"""Hi I'm planning a"" trip to Paris and need a hotel.""",greeting,533
+"I'd like something in 15th arr. Paris with a good rating. Budget is around $120 per night.""",provide_location,534
+"""Hi I'm planning a"" trip to Paris and need a hotel.""",greeting,535
+"I'd like something in 10th arr. Paris with a good rating. Budget is around $130 per night. """,provide_location,536
+"""Hi I'm planning a"" trip to Paris and need a hotel.""",greeting,537
+"I'd like something in 10th arr. Paris with a good rating. Budget is around $132 per night.""",provide_location,538
+"""Hi I'm planning a"" trip to Paris and need a hotel.""",greeting,539
+"I'd like something in 14th arr. Paris with a good rating. Budget is around $184 per night.""",provide_location,540
+"""Hi I'm planning a"" trip to Paris and need a hotel.""",greeting,541
+"I'd like something in 14th arr. Paris with a good rating. Budget is around $88 per night.""",provide_location,542
+"""Hi I'm planning a"" trip to Munich and need a hotel.""",greeting,543
+"I'd like something in Ludwigsvorstadt Munich with a good rating. Budget is around $106 per night.""",provide_location,544
+"""Hi I'm planning a"" trip to Munich and need a hotel.""",greeting,545
+"I'd like something in Altstadt - Lehel Munich with a good rating. Budget is around $110 per night.""",provide_location,546
+"""Hi I'm planning a"" trip to Munich and need a hotel.""",greeting,547
+"I'd like something in Altstadt - Lehel Munich with a good rating. Budget is around $77 per night.""",provide_location,548
+Does it include breakfast?,ask_info,549
+"""Yes please. Book it for me.""",confirmation,550
+"""Hi I'm planning a"" trip to Munich and need a hotel.""",greeting,551
+"I'd like something in Ludwigsvorstadt Munich with a good rating. Budget is around $109 per night.""",provide_location,552
+"""Hi I'm planning a"" trip to Munich and need a hotel.""",greeting,553
+"I'd like something in Ludwigsvorstadt Munich with a good rating. Budget is around $107 per night.""",provide_location,554
+"""Hi I'm planning a"" trip to Munich and need a hotel.""",greeting,555
+"I'd like something in Ludwigsvorstadt Munich with a good rating. Budget is around $86 per night.""",provide_location,556
+"""Hi I'm planning a"" trip to Munich and need a hotel.""",greeting,557
+"I'd like something in Ludwigsvorstadt Munich with a good rating. Budget is around $125 per night.""",provide_location,558
+"""Hi I'm planning a"" trip to Munich and need a hotel.""",greeting,559
+"I'd like something in Ludwigsvorstadt Munich with a good rating. Budget is around $120 per night.""",provide_location,560
+"""Hi I'm planning a"" trip to Munich and need a hotel.""",greeting,561
+"I'd like something in Ludwigsvorstadt Munich with a good rating. Budget is around $108 per night.""",confirmation,562
+"""Hi I'm planning a"" trip to Munich and need a hotel.""",greeting,563
+"I'd like something in Ludwigsvorstadt Munich with a good rating. Budget is around $89 per night.""",provide_location,564
+"""Hi I'm planning a"" trip to Munich and need a hotel.""",greeting,565
+"I'd like something in Ludwigsvorstadt Munich with a good rating. Budget is around $111 per night.""",provide_location,566
+"""Hi I'm planning a"" trip to Munich and need a hotel.""",greeting,567
+"I'd like something in Maxvorstadt Munich with a good rating. Budget is around $115 per night.""",confirmation,568
+"""Hi I'm planning a"" trip to Munich and need a hotel.""",greeting,569
+"I'd like something in Ludwigsvorstadt Munich with a good rating. Budget is around $107 per night.""",provide_location,570
+"""Hi I'm planning a"" trip to Munich and need a hotel.""",greeting,571
+"I'd like something in Ludwigsvorstadt Munich with a good rating. Budget is around $137 per night.""",confirmation,572
+"""Hi I'm planning a"" trip to Munich and need a hotel.""",greeting,573
+"I'd like something in Ludwigsvorstadt Munich with a good rating. Budget is around $113 per night.""",confirmation,574
+"""Hi I'm planning a"" trip to Munich and need a hotel.""",greeting,575
+"I'd like something in Ludwigsvorstadt Munich with a good rating. Budget is around $122 per night.""",provide_location,576
+Does it include breakfast?,ask_info,577
+"""Yes please. Book it for me.""",confirmation,578
+"""Hi I'm planning a"" trip to Munich and need a hotel.""",greeting,579
+"I'd like something in Maxvorstadt Munich with a good rating. Budget is around $73 per night.""",confirmation,580
+Does it include breakfast?,ask_info,581
+"""Yes please. Book it for me.""",confirmation,582
+"I'd like something in Maxvorstadt Munich with a good rating. Budget is around $130 per night.""",confirmation,583
+"I'd like something in Ludwigsvorstadt Munich with a good rating. Budget is around $107 per night.""",provide_location,584
+Does it include breakfast?,ask_info,585
+"""Yes please. Book it for me.""",confirmation,586
+"I'd like something in SchwanthalerhÃ¶he Munich with a good rating. Budget is around $100 per night.""",provide_location,587
+"I'd like something in Ludwigsvorstadt Munich with a good rating. Budget is around $119 per night.""",provide_location,588
+"I'd like something in Maxvorstadt Munich with a good rating. Budget is around $125 per night.""",confirmation,589
+"I'd like something in Ludwigsvorstadt Munich with a good rating. Budget is around $85 per night.""",provide_location,590
+"I'd like something in Altstadt - Lehel Munich with a good rating. Budget is around $225 per night.""",provide_location,591
+"I'd like something in Ludwigsvorstadt Munich with a good rating. Budget is around $107 per night.""",provide_location,592
+"""Hi I'm planning a"" trip to Berlin and need a hotel.""",greeting,593
+"I'd like something in NeukÃ¶lln Berlin with a good rating. Budget is around $68 per night.""",provide_location,594
+"""Hi I'm planning a"" trip to Berlin and need a hotel.""",greeting,595
+"I'd like something in Mitte Berlin with a good rating. Budget is around $84 per night.""",confirmation,596
+"""Hi I'm planning a"" trip to Berlin and need a hotel.""",greeting,597
+"I'd like something in Friedrichshain-Kreuzberg Berlin with a good rating. Budget is around $72 per night.""",provide_location,598
+"""Hi I'm planning a"" trip to Berlin and need a hotel.""",greeting,599
+"I'd like something in Mitte Berlin with a good rating. Budget is around $106 per night.""",confirmation,600
+"""Hi I'm planning a"" trip to Berlin and need a hotel.""",greeting,601
+"I'd like something in Friedrichshain-Kreuzberg Berlin with a good rating. Budget is around $93 per night.""",provide_location,602
+"""Yes please. Book it for me.""",confirmation,603
+"""Hi I'm planning a"" trip to Berlin and need a hotel.""",greeting,604
+"I'd like something in Mitte Berlin with a good rating. Budget is around $78 per night.""",confirmation,605
+Does it include breakfast?,ask_info,606
+"""Yes please. Book it for me.""",confirmation,607
+"""Hi I'm planning a"" trip to Berlin and need a hotel.""",greeting,608
+"I'd like something in Friedrichshain-Kreuzberg Berlin with a good rating. Budget is around $116 per night.""",provide_location,609
+Does it include breakfast?,ask_info,610
+"""Yes please. Book it for me.""",confirmation,611
+"I'd like something in Mitte Berlin with a good rating. Budget is around $107 per night.""",confirmation,612
+"I'd like something in Mitte Berlin with a good rating. Budget is around $90 per night.""",confirmation,613
+"I'd like something in Mitte Berlin with a good rating. Budget is around $93 per night.""",confirmation,614
+"I'd like something in Friedrichshain-Kreuzberg Berlin with a good rating. Budget is around $92 per night.""",provide_location,615
+"I'd like something in Mitte Berlin with a good rating. Budget is around $92 per night.""",confirmation,616
+"I'd like something in Friedrichshain-Kreuzberg Berlin with a good rating. Budget is around $119 per night.""",provide_location,617
+"I'd like something in Friedrichshain-Kreuzberg Berlin with a good rating. Budget is around $128 per night.""",provide_location,618
+Does it include breakfast?,ask_info,619
+"""Yes please. Book it for me.""",confirmation,620
+"""Hi I'm planning a"" trip to Berlin and need a hotel.""",greeting,621
+"I'd like something in Friedrichshain-Kreuzberg Berlin with a good rating. Budget is around $95 per night.""",provide_location,622
+Does it include breakfast?,ask_info,623
+"""Yes please. Book it for me.""",confirmation,624
+"""Hi I'm planning a"" trip to Berlin and need a hotel.""",greeting,625
+"I'd like something in Mitte Berlin with a good rating. Budget is around $89 per night.""",confirmation,626
+Does it include breakfast?,ask_info,627
+"""Yes please. Book it for me.""",confirmation,628
+"""Hi I'm planning a"" trip to Berlin and need a hotel.""",greeting,629
+"I'd like something in Mitte Berlin with a good rating. Budget is around $102 per night.""",confirmation,630
+"""Hi I'm planning a"" trip to Berlin and need a hotel.""",greeting,631
+"I'd like something in Friedrichshain-Kreuzberg Berlin with a good rating. Budget is around $78 per night.""",provide_location,632
+"""Hi I'm planning a"" trip to Berlin and need a hotel.""",greeting,633
+"I'd like something in Mitte Berlin with a good rating. Budget is around $97 per night.""",confirmation,634
+"""Hi I'm planning a"" trip to Berlin and need a hotel.""",greeting,635
+"I'd like something in Mitte Berlin with a good rating. Budget is around $104 per night.""",confirmation,636
+"""Hi I'm planning a"" trip to Berlin and need a hotel.""",greeting,637
+"I'd like something in Mitte Berlin with a good rating. Budget is around $85 per night.""",confirmation,638
+"""Hi I'm planning a"" trip to Berlin and need a hotel.""",greeting,639
+"I'd like something in Mitte Berlin with a good rating. Budget is around $82 per night.""",confirmation,640
+"""Hi I'm planning a"" trip to Berlin and need a hotel.""",greeting,641
+"I'd like something in Mitte Berlin with a good rating. Budget is around $109 per night.""",confirmation,642
+"""Hi I'm planning a"" trip to Berlin and need a hotel.""",greeting,643
+"I'd like something in Friedrichshain-Kreuzberg Berlin with a good rating. Budget is around $87 per night.""",provide_location,644
+"""Hi I'm planning a"" trip to Berlin and need a hotel.""",greeting,645
+"I'd like something in Tempelhof-SchÃ¶neberg Berlin with a good rating. Budget is around $108 per night.""",provide_location,646
+"""Hi I'm planning a"" trip to Frankfurt and need a hotel.""",greeting,647
+"I'd like something in Bahnhofsviertel Frankfurt with a good rating. Budget is around $69 per night.""",provide_location,648
+"""Hi I'm planning a"" trip to Frankfurt and need a hotel.""",greeting,649
+"I'd like something in Frankfurt City Center (Old Town) Frankfurt with a good rating. Budget is around $107 per night.""",provide_location,650
+"""Hi I'm planning a"" trip to Frankfurt and need a hotel.""",greeting,651
+"I'd like something in Gutleutviertel Frankfurt with a good rating. Budget is around $85 per night.""",provide_location,652
+"""Yes please. Book it for me.""",confirmation,653
+"""Hi I'm planning a"" trip to Frankfurt and need a hotel.""",greeting,654
+"I'd like something in Gallusviertel Frankfurt with a good rating. Budget is around $79 per night.""",provide_location,655
+"""Hi I'm planning a"" trip to Frankfurt and need a hotel.""",greeting,656
+"I'd like something in Frankfurt Airport Area Frankfurt with a good rating. Budget is around $98 per night.""",confirmation,657
+"""Hi I'm planning a"" trip to Frankfurt and need a hotel.""",greeting,658
+"I'd like something in Frankfurt City Center (Old Town) Frankfurt with a good rating. Budget is around $108 per night.""",provide_location,659
+"""Hi I'm planning a"" trip to Frankfurt and need a hotel.""",greeting,660
+"I'd like something in Frankfurt Airport Area Frankfurt with a good rating. Budget is around $107 per night.""",confirmation,661
+"""Hi I'm planning a"" trip to Frankfurt and need a hotel.""",greeting,662
+"I'd like something in Westend Frankfurt with a good rating. Budget is around $123 per night.""",confirmation,663
+"""Hi I'm planning a"" trip to Frankfurt and need a hotel.""",greeting,664
+"I'd like something in Ostend Frankfurt with a good rating. Budget is around $88 per night.""",confirmation,665
+"""Hi I'm planning a"" trip to Frankfurt and need a hotel.""",greeting,666
+"I'd like something in Frankfurt City Center (Old Town) Frankfurt with a good rating. Budget is around $102 per night.""",provide_location,667
+"""Hi I'm planning a"" trip to Frankfurt and need a hotel.""",greeting,668
+"I'd like something in Bahnhofsviertel Frankfurt with a good rating. Budget is around $105 per night.""",provide_location,669
+"""Hi I'm planning a"" trip to Frankfurt and need a hotel.""",greeting,670
+"I'd like something in Frankfurt City Center (Old Town) Frankfurt with a good rating. Budget is around $140 per night.""",provide_location,671
+"""Hi I'm planning a"" trip to Frankfurt and need a hotel.""",greeting,672
+"I'd like something in Gallusviertel Frankfurt with a good rating. Budget is around $88 per night.""",provide_location,673
+"""Hi I'm planning a"" trip to Frankfurt and need a hotel.""",greeting,674
+"I'd like something in Bahnhofsviertel Frankfurt with a good rating. Budget is around $86 per night.""",provide_location,675
+"""Hi I'm planning a"" trip to Frankfurt and need a hotel.""",greeting,676
+"I'd like something in Frankfurt City Center (Old Town) Frankfurt with a good rating. Budget is around $228 per night.""",provide_location,677
+"""Hi I'm planning a"" trip to Frankfurt and need a hotel.""",greeting,678
+"I'd like something in Gutleutviertel Frankfurt with a good rating. Budget is around $84 per night.""",provide_location,679
+"""Hi I'm planning a"" trip to Frankfurt and need a hotel.""",greeting,680
+"I'd like something in Frankfurt City Center (Old Town) Frankfurt with a good rating. Budget is around $109 per night.""",provide_location,681
+"""Hi I'm planning a"" trip to Frankfurt and need a hotel.""",greeting,682
+"I'd like something in Frankfurt City Center (Old Town) Frankfurt with a good rating. Budget is around $212 per night.""",provide_location,683
+"""Hi I'm planning a"" trip to Frankfurt and need a hotel.""",greeting,684
+"I'd like something in Frankfurt City Center (Old Town) Frankfurt with a good rating. Budget is around $151 per night.""",provide_location,685
+"""Hi I'm planning a"" trip to Frankfurt and need a hotel.""",greeting,686
+"I'd like something in Frankfurt with a good rating. Budget is around $44 per night.""",provide_location,687
+"""Hi I'm planning a"" trip to Frankfurt and need a hotel.""",greeting,688
+"I'd like something in Bahnhofsviertel Frankfurt with a good rating. Budget is around $109 per night.""",provide_location,689
+"""Hi I'm planning a"" trip to Frankfurt and need a hotel.""",greeting,690
+"I'd like something in Gallusviertel Frankfurt with a good rating. Budget is around $92 per night.""",provide_location,691
+"""Hi I'm planning a"" trip to Frankfurt and need a hotel.""",greeting,692
+"I'd like something in Sachsenhausen Frankfurt with a good rating. Budget is around $149 per night.""",provide_location,693
+Does it include breakfast?,ask_info,694
+"""Yes please. Book it for me.""",confirmation,695
+"""Hi I'm planning a"" trip to Frankfurt and need a hotel.""",greeting,696
+"I'd like something in Frankfurt Airport Area Frankfurt with a good rating. Budget is around $132 per night.""",confirmation,697
+Does it include breakfast?,ask_info,698
+"""Yes please. Book it for me.""",confirmation,699
+"""Hi I'm planning a"" trip to Frankfurt and need a hotel.""",greeting,700
+"I'd like something in Frankfurt City Center (Old Town) Frankfurt with a good rating. Budget is around $280 per night.""",provide_location,701
+Does it include breakfast?,ask_info,702
+"""Yes please. Book it for me.""",confirmation,703
+"""Hi I'm planning a"" trip to Hamburg and need a hotel.""",greeting,704
+"I'd like something in Hamburg City Center (Old Town) Hamburg with a good rating. Budget is around $89 per night.""",provide_location,705
+"""Hi I'm planning a"" trip to Hamburg and need a hotel.""",greeting,706
+"I'd like something in Hammerbrook Hamburg with a good rating. Budget is around $63 per night.""",confirmation,707
+"""Hi I'm planning a"" trip to Hamburg and need a hotel.""",greeting,708
+"I'd like something in Hammerbrook Hamburg with a good rating. Budget is around $77 per night.""",confirmation,709
+"""Hi I'm planning a"" trip to Hamburg and need a hotel.""",greeting,710
+"I'd like something in Altona-Altstadt Hamburg with a good rating. Budget is around $82 per night.""",provide_location,711
+"""Hi I'm planning a"" trip to Hamburg and need a hotel.""",greeting,712
+"I'd like something in Hammerbrook Hamburg with a good rating. Budget is around $75 per night.""",confirmation,713
+"""Hi I'm planning a"" trip to Hamburg and need a hotel.""",greeting,714
+"I'd like something in Hamburg with a good rating. Budget is around $68 per night.""",provide_location,715
+"""Hi I'm planning a"" trip to Hamburg and need a hotel.""",greeting,716
+"I'd like something in St. Georg Hamburg with a good rating. Budget is around $56 per night.""",provide_location,717
+"""Hi I'm planning a"" trip to Hamburg and need a hotel.""",greeting,718
+"I'd like something in Hamburg City Center (New Town) Hamburg with a good rating. Budget is around $132 per night.""",provide_location,719
+Does it include breakfast?,ask_info,720
+"""Hi I'm planning a"" trip to Hamburg and need a hotel.""",greeting,721
+"I'd like something in Hamburg City Center (Old Town) Hamburg with a good rating. Budget is around $167 per night.""",provide_location,722
+Does it include breakfast?,ask_info,723
+"""Hi I'm planning a"" trip to Hamburg and need a hotel.""",greeting,724
+"I'd like something in Hamburg City Center (New Town) Hamburg with a good rating. Budget is around $132 per night.""",provide_location,725
+Does it include breakfast?,ask_info,726
+"""Hi I'm planning a"" trip to Hamburg and need a hotel.""",greeting,727
+"I'd like something in Hamburg City Center Hamburg with a good rating. Budget is around $78 per night.""",confirmation,728
+Does it include breakfast?,ask_info,729
+"""Yes please. Book it for me.""",confirmation,730
+"""Hi I'm planning a"" trip to Hamburg and need a hotel.""",greeting,731
+"I'd like something in HafenCity Hamburg with a good rating. Budget is around $140 per night.""",confirmation,732
+"""Hi I'm planning a"" trip to Hamburg and need a hotel.""",greeting,733
+"I'd like something in Hohenfelde Hamburg with a good rating. Budget is around $118 per night.""",provide_location,734
+"""Hi I'm planning a"" trip to Hamburg and need a hotel.""",greeting,735
+"I'd like something in St. Georg Hamburg with a good rating. Budget is around $109 per night.""",provide_location,736
+"""Hi I'm planning a"" trip to Hamburg and need a hotel.""",greeting,737
+"I'd like something in St. Georg Hamburg with a good rating. Budget is around $126 per night.""",provide_location,738
+"""Hi I'm planning a"" trip to Hamburg and need a hotel.""",greeting,739
+"I'd like something in Hamburg City Center (Old Town) Hamburg with a good rating. Budget is around $147 per night.""",provide_location,740
+"""Hi I'm planning a"" trip to Hamburg and need a hotel.""",greeting,741
+"I'd like something in Hamburg with a good rating. Budget is around $110 per night.""",provide_location,742
+"""Hi I'm planning a"" trip to Hamburg and need a hotel.""",greeting,743
+"I'd like something in St. Georg Hamburg with a good rating. Budget is around $100 per night.""",confirmation,744
+Does it include breakfast?,ask_info,745
+"""Yes please. Book it for me.""",confirmation,746
+"""Hi I'm planning a"" trip to Hamburg and need a hotel.""",greeting,747
+"I'd like something in Hamburg with a good rating. Budget is around $98 per night.""",provide_location,748
+"I'd like something in Hohenfelde Hamburg with a good rating. Budget is around $62 per night.""",provide_location,749
+"I'd like something in Hamburg City Center Hamburg with a good rating. Budget is around $103 per night.""",confirmation,750
+"I'd like something in St. Georg Hamburg with a good rating. Budget is around $185 per night.""",provide_location,751
+Does it include breakfast?,ask_info,752
+"""Yes please. Book it for me.""",confirmation,753
+"""Hi I'm planning a"" trip to Hamburg and need a hotel.""",greeting,754
+"I'd like something in Hamburg City Center (New Town) Hamburg with a good rating. Budget is around $207 per night.""",provide_location,755
+Does it include breakfast?,ask_info,756
+"""Yes please. Book it for me.""",confirmation,757
+"""Hi I'm planning a"" trip to Hamburg and need a hotel.""",greeting,758
+"I'd like something in St. Georg Hamburg with a good rating. Budget is around $65 per night.""",provide_location,759
+Does it include breakfast?,ask_info,760
+"""Yes please. Book it for me.""",confirmation,761
+"""Hi I'm planning a"" trip to Hamburg and need a hotel.""",greeting,762
+"I'd like something in St. Pauli Hamburg with a good rating. Budget is around $141 per night.""",provide_location,763
+Does it include breakfast?,ask_info,764
+"""Yes please. Book it for me.""",confirmation,765
+"""Hi I'm planning a"" trip to Heraklio and need a hotel.""",greeting,766
+"I'd like something in Heralkio City Centre Heraklio with a good rating. Budget is around $223 per night.""",provide_location,767
+"""Hi I'm planning a"" trip to Heraklio and need a hotel.""",greeting,768
+"I'd like something in Heraklio with a good rating. Budget is around $65 per night.""",confirmation,769
+"""Hi I'm planning a"" trip to Heraklio and need a hotel.""",greeting,770
+"I'd like something in Heralkio City Centre Heraklio with a good rating. Budget is around $128 per night.""",provide_location,771
+"""Hi I'm planning a"" trip to Heraklio and need a hotel.""",greeting,772
+"I'd like something in Heralkio City Centre Heraklio with a good rating. Budget is around $78 per night.""",provide_location,773
+"""Hi I'm planning a"" trip to Heraklio and need a hotel.""",greeting,774
+"I'd like something in Heralkio City Centre Heraklio with a good rating. Budget is around $39 per night.""",provide_location,775
+"""Hi I'm planning a"" trip to Heraklio and need a hotel.""",greeting,776
+"I'd like something in Heraklio with a good rating. Budget is around $76 per night.""",confirmation,777
+"I'd like something in Heraklio with a good rating. Budget is around $49 per night.""",confirmation,778
+"I'd like something in Heralkio City Centre Heraklio with a good rating. Budget is around $101 per night.""",provide_location,779
+"I'd like something in Heralkio City Centre Heraklio with a good rating. Budget is around $65 per night.""",provide_location,780
+"I'd like something in Heraklio with a good rating. Budget is around $79 per night.""",confirmation,781
+"I'd like something in Heraklio with a good rating. Budget is around $72 per night.""",confirmation,782
+"I'd like something in Heraklio with a good rating. Budget is around $93 per night.""",confirmation,783
+"I'd like something in Heralkio City Centre Heraklio with a good rating. Budget is around $100 per night.""",provide_location,784
+"I'd like something in Heralkio City Centre Heraklio with a good rating. Budget is around $109 per night.""",provide_location,785
+"I'd like something in Heraklio with a good rating. Budget is around $87 per night.""",confirmation,786
+"I'd like something in Heralkio City Centre Heraklio with a good rating. Budget is around $106 per night. """,provide_location,787
+"""Hi I'm planning a"" trip to Heraklio and need a hotel.""",greeting,788
+"I'd like something in Heraklio with a good rating. Budget is around $131 per night.""",confirmation,789
+"I'd like something in Heralkio City Centre Heraklio with a good rating. Budget is around $64 per night.""",provide_location,790
+"""Hi I'm planning a"" trip to Heraklio and need a hotel.""",greeting,791
+"I'd like something in Heralkio City Centre Heraklio with a good rating. Budget is around $57 per night.""",provide_location,792
+"I'd like something in Heralkio City Centre Heraklio with a good rating. Budget is around $70 per night.""",provide_location,793
+"I'd like something in Heralkio City Centre Heraklio with a good rating. Budget is around $126 per night.""",provide_location,794
+"I'd like something in Heralkio City Centre Heraklio with a good rating. Budget is around $98 per night.""",provide_location,795
+"I'd like something in Heralkio City Centre Heraklio with a good rating. Budget is around $173 per night.""",provide_location,796
+"I'd like something in Heralkio City Centre Heraklio with a good rating. Budget is around $152 per night.""",provide_location,797
+"I'd like something in Heraklio with a good rating. Budget is around $96 per night.""",confirmation,798
+"""Hi I'm planning a"" trip to Rome and need a hotel.""",greeting,799
+"I'd like something in Rione Monti Rome with a good rating. Budget is around $392 per night.""",confirmation,800
+"I'd like something in Vaticano Prati Rome with a good rating. Budget is around $150 per night.""",provide_location,801
+"""Hi I'm planning a"" trip to Rome and need a hotel.""",greeting,802
+"I'd like something in Via Veneto Rome with a good rating. Budget is around $159 per night.""",confirmation,803
+Does it include breakfast?,ask_info,804
+This is a great choice!,confirmation,805
+Yes my name is {name}. My email is {email} and my phone number is {phone number}.,confirmation,806
+"""Yes please. Book it for me.""",confirmation,807
+"""Hi I'm planning a"" trip to Rome and need a hotel.""",greeting,808
+"I'd like something in Central Station Rome with a good rating. Budget is around $107 per night.""",confirmation,809
+"""Hi I'm planning a"" trip to Rome and need a hotel.""",greeting,810
+"I'd like something in Trevi Rome with a good rating. Budget is around $245 per night.""",confirmation,811
+"""Hi I'm planning a"" trip to Rome and need a hotel.""",greeting,812
+"I'd like something in Central Station Rome with a good rating. Budget is around $150 per night.""",confirmation,813
+"""Hi I'm planning a"" trip to Rome and need a hotel.""",greeting,814
+"I'd like something in Via Veneto Rome with a good rating. Budget is around $277 per night.""",confirmation,815
+"""Hi I'm planning a"" trip to Rome and need a hotel.""",greeting,816
+"I'd like something in Pantheon Rome with a good rating. Budget is around $270 per night.""",confirmation,817
+"""Hi I'm planning a"" trip to Rome and need a hotel.""",greeting,818
+"I'd like something in Trionfale Rome with a good rating. Budget is around $243 per night.""",provide_location,819
+"""Hi I'm planning a"" trip to Rome and need a hotel.""",greeting,820
+"I'd like something in Trevi Rome with a good rating. Budget is around $277 per night.""",confirmation,821
+Does it include breakfast?,ask_info,822
+"""Yes please. Book it for me.""",confirmation,823
+"""Hi I'm planning a"" trip to Rome and need a hotel.""",greeting,824
+"I'd like something in Rione Monti Rome with a good rating. Budget is around $272 per night.""",confirmation,825
+"I'd like something in Rione Monti Rome with a good rating. Budget is around $167 per night.""",confirmation,826
+"I'd like something in Vaticano Prati Rome with a good rating. Budget is around $172 per night.""",provide_location,827
+Does it include breakfast?,ask_info,828
+"""Yes please. Book it for me.""",confirmation,829
+"""Hi I'm planning a"" trip to Rome and need a hotel.""",greeting,830
+"I'd like something in Rione Monti Rome with a good rating. Budget is around $140 per night.""",confirmation,831
+Does it include breakfast?,ask_info,832
+Looking for a place to stay in Westminster Borough London. Any suggestions?,ask_info,833
+Looking for a place to stay in Hackney London. Any suggestions?,ask_info,834
+Looking for a place to stay in Hammersmith and Fulham London. Any suggestions?,provide_location,835
+Looking for a place to stay in Acton London. Any suggestions?,provide_location,836
+Looking for a place to stay in Lambeth London. Any suggestions?,ask_info,837
+Looking for a place to stay in Lambeth London. Any suggestions?,ask_info,838
+Looking for a place to stay in Kensington and Chelsea London. Any suggestions?,provide_location,839
+Looking for a place to stay in Westminster Borough London. Any suggestions?,ask_info,840
+Looking for a place to stay in Camden London. Any suggestions?,provide_location,841
+Looking for a place to stay in Westminster Borough London. Any suggestions?,ask_info,842
+Looking for a place to stay in Tower Hamlets London. Any suggestions?,ask_info,843
+Looking for a place to stay in Tower Hamlets London. Any suggestions?,ask_info,844
+Looking for a place to stay in Westminster Borough London. Any suggestions?,ask_info,845
+Looking for a place to stay in City of London London. Any suggestions?,ask_info,846
+Looking for a place to stay in Tower Hamlets London. Any suggestions?,ask_info,847
+Looking for a place to stay in Westminster Borough London. Any suggestions?,ask_info,848
+Looking for a place to stay in Westminster Borough London. Any suggestions?,ask_info,849
+Looking for a place to stay in Westminster Borough London. Any suggestions?,ask_info,850
+Looking for a place to stay in Westminster Borough London. Any suggestions?,ask_info,851
+Looking for a place to stay in Westminster Borough London. Any suggestions?,ask_info,852
+Looking for a place to stay in Westminster Borough London. Any suggestions?,ask_info,853
+Looking for a place to stay in Islington London. Any suggestions?,provide_location,854
+Looking for a place to stay in City of London London. Any suggestions?,ask_info,855
+Looking for a place to stay in Westminster Borough London. Any suggestions?,ask_info,856
+Looking for a place to stay in Westminster Borough London. Any suggestions?,ask_info,857
+Looking for a place to stay in Luxembourg. Any suggestions?,provide_location,858
+Looking for a place to stay in Luxembourg. Any suggestions?,provide_location,859
+Looking for a place to stay in Gare Luxembourg. Any suggestions?,provide_location,860
+Looking for a place to stay in Gare Luxembourg. Any suggestions?,provide_location,861
+Looking for a place to stay in Grund Luxembourg. Any suggestions?,provide_location,862
+Looking for a place to stay in Ville Haute Luxembourg. Any suggestions?,provide_location,863
+Looking for a place to stay in Luxembourg. Any suggestions?,provide_location,864
+Looking for a place to stay in Luxembourg. Any suggestions?,provide_location,865
+Looking for a place to stay in Luxembourg. Any suggestions?,provide_location,866
+Looking for a place to stay in Ville Haute Luxembourg. Any suggestions?,provide_location,867
+Looking for a place to stay in Belair Luxembourg. Any suggestions?,provide_location,868
+Looking for a place to stay in Luxembourg. Any suggestions?,provide_location,869
+Looking for a place to stay in Gare Luxembourg. Any suggestions?,provide_location,870
+Looking for a place to stay in Luxembourg. Any suggestions?,provide_location,871
+Looking for a place to stay in Gare Luxembourg. Any suggestions?,provide_location,872
+Looking for a place to stay in Gare Luxembourg. Any suggestions?,provide_location,873
+Looking for a place to stay in Gare Luxembourg. Any suggestions?,provide_location,874
+Looking for a place to stay in Luxembourg. Any suggestions?,provide_location,875
+Looking for a place to stay in Luxembourg. Any suggestions?,provide_location,876
+Looking for a place to stay in Bonnevoie Luxembourg. Any suggestions?,provide_location,877
+Looking for a place to stay in Gare Luxembourg. Any suggestions?,provide_location,878
+Looking for a place to stay in Luxembourg. Any suggestions?,provide_location,879
+Looking for a place to stay in Luxembourg. Any suggestions?,provide_location,880
+Looking for a place to stay in Bonnevoie Luxembourg. Any suggestions?,provide_location,881
+Looking for a place to stay in Gare Luxembourg. Any suggestions?,provide_location,882
+Looking for a place to stay in UniÃ£o de Freguesias do Centro Porto. Any suggestions?,provide_location,883
+Looking for a place to stay in UniÃ£o de Freguesias do Centro Porto. Any suggestions?,provide_location,884
+Looking for a place to stay in UniÃ£o de Freguesias do Centro Porto. Any suggestions?,provide_location,885
+Looking for a place to stay in UniÃ£o de Freguesias do Centro Porto. Any suggestions?,provide_location,886
+Looking for a place to stay in UniÃ£o de Freguesias do Centro Porto. Any suggestions?,provide_location,887
+Looking for a place to stay in UniÃ£o de Freguesias do Centro Porto. Any suggestions?,provide_location,888
+Looking for a place to stay in UniÃ£o de Freguesias do Centro Porto. Any suggestions?,provide_location,889
+Looking for a place to stay in UniÃ£o de Freguesias do Centro Porto. Any suggestions?,provide_location,890
+Looking for a place to stay in UniÃ£o de Freguesias do Centro Porto. Any suggestions?,provide_location,891
+Looking for a place to stay in UniÃ£o de Freguesias do Centro Porto. Any suggestions?,provide_location,892
+Looking for a place to stay in UniÃ£o de Freguesias do Centro Porto. Any suggestions?,provide_location,893
+Looking for a place to stay in UniÃ£o de Freguesias do Centro Porto. Any suggestions?,provide_location,894
+Looking for a place to stay in Bonfim Porto. Any suggestions?,provide_location,895
+Looking for a place to stay in Bonfim Porto. Any suggestions?,provide_location,896
+Looking for a place to stay in UniÃ£o de Freguesias do Centro Porto. Any suggestions?,provide_location,897
+Looking for a place to stay in UniÃ£o de Freguesias do Centro Porto. Any suggestions?,provide_location,898
+Looking for a place to stay in Bonfim Porto. Any suggestions?,provide_location,899
+Looking for a place to stay in UniÃ£o de Freguesias do Centro Porto. Any suggestions?,provide_location,900
+Looking for a place to stay in UniÃ£o de Freguesias do Centro Porto. Any suggestions?,provide_location,901
+Looking for a place to stay in UniÃ£o de Freguesias do Centro Porto. Any suggestions?,provide_location,902
+Looking for a place to stay in UniÃ£o de Freguesias do Centro Porto. Any suggestions?,provide_location,903
+Looking for a place to stay in Paranhos Porto. Any suggestions?,provide_location,904
+Looking for a place to stay in UniÃ£o de Freguesias do Centro Porto. Any suggestions?,provide_location,905
+Looking for a place to stay in UniÃ£o de Freguesias do Centro Porto. Any suggestions?,provide_location,906
+Looking for a place to stay in UniÃ£o de Freguesias do Centro Porto. Any suggestions?,provide_location,907
+Looking for a place to stay in SarriÃ -St. Gervasi Barcelona. Any suggestions?,provide_location,908
+Looking for a place to stay in Sants-MontjuÃ¯c Barcelona. Any suggestions?,provide_location,909
+Looking for a place to stay in Ciutat Vella Barcelona. Any suggestions?,provide_location,910
+Looking for a place to stay in Eixample Barcelona. Any suggestions?,provide_location,911
+Looking for a place to stay in Eixample Barcelona. Any suggestions?,provide_location,912
+Looking for a place to stay in Eixample Barcelona. Any suggestions?,provide_location,913
+Looking for a place to stay in Eixample Barcelona. Any suggestions?,provide_location,914
+Looking for a place to stay in Eixample Barcelona. Any suggestions?,provide_location,915
+Looking for a place to stay in Eixample Barcelona. Any suggestions?,provide_location,916
+Looking for a place to stay in GrÃ cia Barcelona. Any suggestions?,provide_location,917
+Looking for a place to stay in Ciutat Vella Barcelona. Any suggestions?,provide_location,918
+Looking for a place to stay in Ciutat Vella Barcelona. Any suggestions?,provide_location,919
+Looking for a place to stay in Ciutat Vella Barcelona. Any suggestions?,provide_location,920
+Looking for a place to stay in Eixample Barcelona. Any suggestions?,provide_location,921
+Looking for a place to stay in Ciutat Vella Barcelona. Any suggestions?,provide_location,922
+Looking for a place to stay in Ciutat Vella Barcelona. Any suggestions?,provide_location,923
+Looking for a place to stay in Sants-MontjuÃ¯c Barcelona. Any suggestions?,provide_location,924
+Looking for a place to stay in Ciutat Vella Barcelona. Any suggestions?,provide_location,925
+Looking for a place to stay in Ciutat Vella Barcelona. Any suggestions?,provide_location,926
+Looking for a place to stay in Eixample Barcelona. Any suggestions?,provide_location,927
+Looking for a place to stay in Ciutat Vella Barcelona. Any suggestions?,provide_location,928
+Looking for a place to stay in Sant MartÃ­ Barcelona. Any suggestions?,provide_location,929
+Looking for a place to stay in Eixample Barcelona. Any suggestions?,provide_location,930
+Looking for a place to stay in Eixample Barcelona. Any suggestions?,provide_location,931
+Looking for a place to stay in Sant MartÃ­ Barcelona. Any suggestions?,provide_location,932
+Looking for a place to stay in 14th arr. Paris. Any suggestions?,provide_location,933
+Looking for a place to stay in 10th arr. Paris. Any suggestions?,provide_location,934
+Looking for a place to stay in 17th arr. Paris. Any suggestions?,provide_location,935
+Looking for a place to stay in 15th arr. Paris. Any suggestions?,provide_location,936
+Looking for a place to stay in 5th arr. Paris. Any suggestions?,provide_location,937
+Looking for a place to stay in 14th arr. Paris. Any suggestions?,provide_location,938
+Looking for a place to stay in 2nd arr. Paris. Any suggestions?,provide_location,939
+Looking for a place to stay in 9th arr. Paris. Any suggestions?,provide_location,940
+Looking for a place to stay in 6th arr. Paris. Any suggestions?,provide_location,941
+Looking for a place to stay in 17th arr. Paris. Any suggestions?,provide_location,942
+Looking for a place to stay in 2nd arr. Paris. Any suggestions?,provide_location,943
+Looking for a place to stay in 9th arr. Paris. Any suggestions?,provide_location,944
+Looking for a place to stay in 17th arr. Paris. Any suggestions?,provide_location,945
+Looking for a place to stay in 13th arr. Paris. Any suggestions?,provide_location,946
+Looking for a place to stay in 12th arr. Paris. Any suggestions?,provide_location,947
+Looking for a place to stay in 6th arr. Paris. Any suggestions?,provide_location,948
+Looking for a place to stay in 15th arr. Paris. Any suggestions?,provide_location,949
+Looking for a place to stay in 15th arr. Paris. Any suggestions?,provide_location,950
+Looking for a place to stay in 1st arr. Paris. Any suggestions?,provide_location,951
+Looking for a place to stay in 14th arr. Paris. Any suggestions?,provide_location,952
+Looking for a place to stay in 15th arr. Paris. Any suggestions?,provide_location,953
+Looking for a place to stay in 10th arr. Paris. Any suggestions?,provide_location,954
+Looking for a place to stay in 10th arr. Paris. Any suggestions?,provide_location,955
+Looking for a place to stay in 14th arr. Paris. Any suggestions?,provide_location,956
+Looking for a place to stay in 14th arr. Paris. Any suggestions?,provide_location,957
+Looking for a place to stay in Ludwigsvorstadt Munich. Any suggestions?,provide_location,958
+Looking for a place to stay in Altstadt - Lehel Munich. Any suggestions?,provide_location,959
+Looking for a place to stay in Altstadt - Lehel Munich. Any suggestions?,provide_location,960
+Looking for a place to stay in Ludwigsvorstadt Munich. Any suggestions?,provide_location,961
+Looking for a place to stay in Ludwigsvorstadt Munich. Any suggestions?,provide_location,962
+Looking for a place to stay in Ludwigsvorstadt Munich. Any suggestions?,provide_location,963
+Looking for a place to stay in Ludwigsvorstadt Munich. Any suggestions?,provide_location,964
+Looking for a place to stay in Ludwigsvorstadt Munich. Any suggestions?,provide_location,965
+Looking for a place to stay in Ludwigsvorstadt Munich. Any suggestions?,provide_location,966
+Looking for a place to stay in Ludwigsvorstadt Munich. Any suggestions?,provide_location,967
+Looking for a place to stay in Ludwigsvorstadt Munich. Any suggestions?,provide_location,968
+Looking for a place to stay in Maxvorstadt Munich. Any suggestions?,provide_location,969
+Looking for a place to stay in Ludwigsvorstadt Munich. Any suggestions?,provide_location,970
+Looking for a place to stay in Ludwigsvorstadt Munich. Any suggestions?,provide_location,971
+Looking for a place to stay in Ludwigsvorstadt Munich. Any suggestions?,provide_location,972
+Looking for a place to stay in Ludwigsvorstadt Munich. Any suggestions?,provide_location,973
+Looking for a place to stay in Maxvorstadt Munich. Any suggestions?,provide_location,974
+Looking for a place to stay in Maxvorstadt Munich. Any suggestions?,provide_location,975
+Looking for a place to stay in Ludwigsvorstadt Munich. Any suggestions?,provide_location,976
+Looking for a place to stay in SchwanthalerhÃ¶he Munich. Any suggestions?,provide_location,977
+Looking for a place to stay in Ludwigsvorstadt Munich. Any suggestions?,provide_location,978
+Looking for a place to stay in Maxvorstadt Munich. Any suggestions?,provide_location,979
+Looking for a place to stay in Ludwigsvorstadt Munich. Any suggestions?,provide_location,980
+Looking for a place to stay in Altstadt - Lehel Munich. Any suggestions?,provide_location,981
+Looking for a place to stay in Ludwigsvorstadt Munich. Any suggestions?,provide_location,982
+Looking for a place to stay in NeukÃ¶lln Berlin. Any suggestions?,ask_info,983
+Looking for a place to stay in Mitte Berlin. Any suggestions?,provide_location,984
+Looking for a place to stay in Friedrichshain-Kreuzberg Berlin. Any suggestions?,provide_location,985
+Looking for a place to stay in Mitte Berlin. Any suggestions?,provide_location,986
+Looking for a place to stay in Friedrichshain-Kreuzberg Berlin. Any suggestions?,provide_location,987
+Looking for a place to stay in Mitte Berlin. Any suggestions?,provide_location,988
+Looking for a place to stay in Friedrichshain-Kreuzberg Berlin. Any suggestions?,provide_location,989
+Looking for a place to stay in Mitte Berlin. Any suggestions?,provide_location,990
+Looking for a place to stay in Mitte Berlin. Any suggestions?,provide_location,991
+Looking for a place to stay in Mitte Berlin. Any suggestions?,provide_location,992
+Looking for a place to stay in Friedrichshain-Kreuzberg Berlin. Any suggestions?,provide_location,993
+Looking for a place to stay in Mitte Berlin. Any suggestions?,provide_location,994
+Looking for a place to stay in Friedrichshain-Kreuzberg Berlin. Any suggestions?,provide_location,995
+Looking for a place to stay in Friedrichshain-Kreuzberg Berlin. Any suggestions?,provide_location,996
+Looking for a place to stay in Friedrichshain-Kreuzberg Berlin. Any suggestions?,provide_location,997
+Looking for a place to stay in Mitte Berlin. Any suggestions?,provide_location,998
+Looking for a place to stay in Mitte Berlin. Any suggestions?,provide_location,999
+Looking for a place to stay in Friedrichshain-Kreuzberg Berlin. Any suggestions?,provide_location,1000
+Looking for a place to stay in Mitte Berlin. Any suggestions?,provide_location,1001
+Looking for a place to stay in Mitte Berlin. Any suggestions?,provide_location,1002
+Looking for a place to stay in Mitte Berlin. Any suggestions?,provide_location,1003
+Looking for a place to stay in Mitte Berlin. Any suggestions?,provide_location,1004
+Looking for a place to stay in Mitte Berlin. Any suggestions?,provide_location,1005
+Looking for a place to stay in Friedrichshain-Kreuzberg Berlin. Any suggestions?,provide_location,1006
+Looking for a place to stay in Tempelhof-SchÃ¶neberg Berlin. Any suggestions?,provide_location,1007
+Looking for a place to stay in Bahnhofsviertel Frankfurt. Any suggestions?,provide_location,1008
+Looking for a place to stay in Frankfurt City Center (Old Town) Frankfurt. Any suggestions?,provide_location,1009
+Looking for a place to stay in Gutleutviertel Frankfurt. Any suggestions?,provide_location,1010
+Looking for a place to stay in Gallusviertel Frankfurt. Any suggestions?,provide_location,1011
+Looking for a place to stay in Frankfurt Airport Area Frankfurt. Any suggestions?,provide_location,1012
+Looking for a place to stay in Frankfurt City Center (Old Town) Frankfurt. Any suggestions?,provide_location,1013
+Looking for a place to stay in Frankfurt Airport Area Frankfurt. Any suggestions?,provide_location,1014
+Looking for a place to stay in Westend Frankfurt. Any suggestions?,provide_location,1015
+Looking for a place to stay in Ostend Frankfurt. Any suggestions?,provide_location,1016
+Looking for a place to stay in Frankfurt City Center (Old Town) Frankfurt. Any suggestions?,provide_location,1017
+Looking for a place to stay in Bahnhofsviertel Frankfurt. Any suggestions?,provide_location,1018
+Looking for a place to stay in Frankfurt City Center (Old Town) Frankfurt. Any suggestions?,provide_location,1019
+Looking for a place to stay in Gallusviertel Frankfurt. Any suggestions?,provide_location,1020
+Looking for a place to stay in Bahnhofsviertel Frankfurt. Any suggestions?,provide_location,1021
+Looking for a place to stay in Frankfurt City Center (Old Town) Frankfurt. Any suggestions?,provide_location,1022
+Looking for a place to stay in Gutleutviertel Frankfurt. Any suggestions?,provide_location,1023
+Looking for a place to stay in Frankfurt City Center (Old Town) Frankfurt. Any suggestions?,provide_location,1024
+Looking for a place to stay in Frankfurt City Center (Old Town) Frankfurt. Any suggestions?,provide_location,1025
+Looking for a place to stay in Frankfurt City Center (Old Town) Frankfurt. Any suggestions?,provide_location,1026
+Looking for a place to stay in Frankfurt. Any suggestions?,provide_location,1027
+Looking for a place to stay in Bahnhofsviertel Frankfurt. Any suggestions?,provide_location,1028
+Looking for a place to stay in Gallusviertel Frankfurt. Any suggestions?,provide_location,1029
+Looking for a place to stay in Sachsenhausen Frankfurt. Any suggestions?,provide_location,1030
+Looking for a place to stay in Frankfurt Airport Area Frankfurt. Any suggestions?,provide_location,1031
+Looking for a place to stay in Frankfurt City Center (Old Town) Frankfurt. Any suggestions?,provide_location,1032
+Looking for a place to stay in Hamburg City Center (Old Town) Hamburg. Any suggestions?,provide_location,1033
+Looking for a place to stay in Hammerbrook Hamburg. Any suggestions?,provide_location,1034
+Looking for a place to stay in Hammerbrook Hamburg. Any suggestions?,provide_location,1035
+Looking for a place to stay in Altona-Altstadt Hamburg. Any suggestions?,provide_location,1036
+Looking for a place to stay in Hammerbrook Hamburg. Any suggestions?,provide_location,1037
+Looking for a place to stay in Hamburg. Any suggestions?,ask_info,1038
+Looking for a place to stay in St. Georg Hamburg. Any suggestions?,provide_location,1039
+Looking for a place to stay in Hamburg City Center (New Town) Hamburg. Any suggestions?,provide_location,1040
+Looking for a place to stay in Hamburg City Center (Old Town) Hamburg. Any suggestions?,provide_location,1041
+Looking for a place to stay in Hamburg City Center (New Town) Hamburg. Any suggestions?,provide_location,1042
+Looking for a place to stay in Hamburg City Center Hamburg. Any suggestions?,provide_location,1043
+Looking for a place to stay in HafenCity Hamburg. Any suggestions?,provide_location,1044
+Looking for a place to stay in Hohenfelde Hamburg. Any suggestions?,provide_location,1045
+Looking for a place to stay in St. Georg Hamburg. Any suggestions?,provide_location,1046
+Looking for a place to stay in St. Georg Hamburg. Any suggestions?,provide_location,1047
+Looking for a place to stay in Hamburg City Center (Old Town) Hamburg. Any suggestions?,provide_location,1048
+Looking for a place to stay in Hamburg. Any suggestions?,ask_info,1049
+Looking for a place to stay in St. Georg Hamburg. Any suggestions?,provide_location,1050
+Looking for a place to stay in Hamburg. Any suggestions?,ask_info,1051
+Looking for a place to stay in Hohenfelde Hamburg. Any suggestions?,provide_location,1052
+Looking for a place to stay in Hamburg City Center Hamburg. Any suggestions?,provide_location,1053
+Looking for a place to stay in St. Georg Hamburg. Any suggestions?,provide_location,1054
+Looking for a place to stay in Hamburg City Center (New Town) Hamburg. Any suggestions?,provide_location,1055
+Looking for a place to stay in St. Georg Hamburg. Any suggestions?,provide_location,1056
+Looking for a place to stay in St. Pauli Hamburg. Any suggestions?,provide_location,1057
+Looking for a place to stay in Heralkio City Centre Heraklio. Any suggestions?,provide_location,1058
+Looking for a place to stay in Heraklio. Any suggestions?,provide_location,1059
+Looking for a place to stay in Heralkio City Centre Heraklio. Any suggestions?,provide_location,1060
+Looking for a place to stay in Heralkio City Centre Heraklio. Any suggestions?,provide_location,1061
+Looking for a place to stay in Heralkio City Centre Heraklio. Any suggestions?,provide_location,1062
+Looking for a place to stay in Heraklio. Any suggestions?,provide_location,1063
+Looking for a place to stay in Heraklio. Any suggestions?,provide_location,1064
+Looking for a place to stay in Heralkio City Centre Heraklio. Any suggestions?,provide_location,1065
+Looking for a place to stay in Heralkio City Centre Heraklio. Any suggestions?,provide_location,1066
+Looking for a place to stay in Heraklio. Any suggestions?,provide_location,1067
+Looking for a place to stay in Heraklio. Any suggestions?,provide_location,1068
+Looking for a place to stay in Heraklio. Any suggestions?,provide_location,1069
+Looking for a place to stay in Heralkio City Centre Heraklio. Any suggestions?,provide_location,1070
+Looking for a place to stay in Heralkio City Centre Heraklio. Any suggestions?,provide_location,1071
+Looking for a place to stay in Heraklio. Any suggestions?,provide_location,1072
+Looking for a place to stay in Heralkio City Centre Heraklio. Any suggestions?,provide_location,1073
+Looking for a place to stay in Heraklio. Any suggestions?,provide_location,1074
+Looking for a place to stay in Heralkio City Centre Heraklio. Any suggestions?,provide_location,1075
+Looking for a place to stay in Heralkio City Centre Heraklio. Any suggestions?,provide_location,1076
+Looking for a place to stay in Heralkio City Centre Heraklio. Any suggestions?,provide_location,1077
+Looking for a place to stay in Heralkio City Centre Heraklio. Any suggestions?,provide_location,1078
+Looking for a place to stay in Heralkio City Centre Heraklio. Any suggestions?,provide_location,1079
+Looking for a place to stay in Heralkio City Centre Heraklio. Any suggestions?,provide_location,1080
+Looking for a place to stay in Heralkio City Centre Heraklio. Any suggestions?,provide_location,1081
+Looking for a place to stay in Heraklio. Any suggestions?,provide_location,1082
+Looking for a place to stay in Rione Monti Rome. Any suggestions?,provide_location,1083
+Looking for a place to stay in Vaticano Prati Rome. Any suggestions?,provide_location,1084
+Looking for a place to stay in Via Veneto Rome. Any suggestions?,provide_location,1085
+Looking for a place to stay in Central Station Rome. Any suggestions?,provide_location,1086
+Looking for a place to stay in Trevi Rome. Any suggestions?,provide_location,1087
+Looking for a place to stay in Central Station Rome. Any suggestions?,provide_location,1088
+Looking for a place to stay in Via Veneto Rome. Any suggestions?,provide_location,1089
+Looking for a place to stay in Pantheon Rome. Any suggestions?,provide_location,1090
+Looking for a place to stay in Trionfale Rome. Any suggestions?,provide_location,1091
+Looking for a place to stay in Trevi Rome. Any suggestions?,provide_location,1092
+Looking for a place to stay in Rione Monti Rome. Any suggestions?,provide_location,1093
+Looking for a place to stay in Rione Monti Rome. Any suggestions?,provide_location,1094
+Looking for a place to stay in Vaticano Prati Rome. Any suggestions?,provide_location,1095
+Looking for a place to stay in Rione Monti Rome. Any suggestions?,provide_location,1096
+Looking for a place to stay in Rione Monti Rome. Any suggestions?,provide_location,1097
+Looking for a place to stay in Vaticano Prati Rome. Any suggestions?,provide_location,1098
+Looking for a place to stay in Rione Monti Rome. Any suggestions?,provide_location,1099
+Looking for a place to stay in Navona Rome. Any suggestions?,provide_location,1100
+Looking for a place to stay in Central Station Rome. Any suggestions?,provide_location,1101
+Looking for a place to stay in Navona Rome. Any suggestions?,provide_location,1102
+Looking for a place to stay in Vaticano Prati Rome. Any suggestions?,provide_location,1103
+Looking for a place to stay in Aventino Rome. Any suggestions?,provide_location,1104
+Looking for a place to stay in Rome City Center Rome. Any suggestions?,provide_location,1105
+Looking for a place to stay in Rione Monti Rome. Any suggestions?,provide_location,1106
+Looking for a place to stay in Gianicolense Rome. Any suggestions?,provide_location,1107
+Looking for a place to stay in Cannaregio Venice. Any suggestions?,provide_location,1108
+Looking for a place to stay in Castello Venice. Any suggestions?,provide_location,1109
+Looking for a place to stay in Cannaregio Venice. Any suggestions?,provide_location,1110
+Looking for a place to stay in San Polo Venice. Any suggestions?,provide_location,1111
+Looking for a place to stay in Cannaregio Venice. Any suggestions?,provide_location,1112
+Looking for a place to stay in San Marco Venice. Any suggestions?,provide_location,1113
+Looking for a place to stay in Santa Croce Venice. Any suggestions?,provide_location,1114
+Looking for a place to stay in San Marco Venice. Any suggestions?,provide_location,1115
+Looking for a place to stay in San Marco Venice. Any suggestions?,provide_location,1116
+Looking for a place to stay in Castello Venice. Any suggestions?,provide_location,1117
+Looking for a place to stay in Cannaregio Venice. Any suggestions?,provide_location,1118
+Looking for a place to stay in San Marco Venice. Any suggestions?,provide_location,1119
+Looking for a place to stay in San Marco Venice. Any suggestions?,provide_location,1120
+Looking for a place to stay in Castello Venice. Any suggestions?,provide_location,1121
+Looking for a place to stay in Cannaregio Venice. Any suggestions?,provide_location,1122
+Looking for a place to stay in Santa Croce Venice. Any suggestions?,provide_location,1123
+Looking for a place to stay in Castello Venice. Any suggestions?,provide_location,1124
+Looking for a place to stay in San Marco Venice. Any suggestions?,provide_location,1125
+Looking for a place to stay in Dorsoduro Venice. Any suggestions?,provide_location,1126
+Looking for a place to stay in Cannaregio Venice. Any suggestions?,provide_location,1127
+Looking for a place to stay in Santa Croce Venice. Any suggestions?,provide_location,1128
+Looking for a place to stay in San Marco Venice. Any suggestions?,provide_location,1129
+Looking for a place to stay in Cannaregio Venice. Any suggestions?,provide_location,1130
+Looking for a place to stay in Dorsoduro Venice. Any suggestions?,provide_location,1131
+Looking for a place to stay in San Marco Venice. Any suggestions?,provide_location,1132
+Looking for a place to stay in Via Veneto Rome. Any suggestions?,provide_location,1133
+Looking for a place to stay in Pantheon Rome. Any suggestions?,provide_location,1134
+Looking for a place to stay in Trionfale Rome. Any suggestions?,provide_location,1135
+Looking for a place to stay in Trevi Rome. Any suggestions?,provide_location,1136
+Looking for a place to stay in Rione Monti Rome. Any suggestions?,provide_location,1137
+Looking for a place to stay in Rione Monti Rome. Any suggestions?,provide_location,1138
+Looking for a place to stay in Vaticano Prati Rome. Any suggestions?,provide_location,1139
+Looking for a place to stay in Rione Monti Rome. Any suggestions?,provide_location,1140
+Looking for a place to stay in Rione Monti Rome. Any suggestions?,provide_location,1141
+Looking for a place to stay in Vaticano Prati Rome. Any suggestions?,provide_location,1142
+Looking for a place to stay in Rione Monti Rome. Any suggestions?,provide_location,1143
+Looking for a place to stay in Navona Rome. Any suggestions?,provide_location,1144
+Looking for a place to stay in Central Station Rome. Any suggestions?,provide_location,1145
+Looking for a place to stay in Navona Rome. Any suggestions?,provide_location,1146
+Looking for a place to stay in Vaticano Prati Rome. Any suggestions?,provide_location,1147
+Looking for a place to stay in Aventino Rome. Any suggestions?,provide_location,1148
+Looking for a place to stay in Rome City Center Rome. Any suggestions?,provide_location,1149
+Looking for a place to stay in Rione Monti Rome. Any suggestions?,provide_location,1150
+Looking for a place to stay in Gianicolense Rome Any suggestions?,ask_info,1151
+Looking for a place to stay in Cannaregio Venice. Any suggestions?,provide_location,1152
+Looking for a place to stay in Castello Venice. Any suggestions?,provide_location,1153
+Looking for a place to stay in Cannaregio Venice. Any suggestions?,provide_location,1154
+Looking for a place to stay in San Polo Venice. Any suggestions?,provide_location,1155
+Looking for a place to stay in Cannaregio Venice. Any suggestions?,provide_location,1156
+Looking for a place to stay in San Marco Venice. Any suggestions?,provide_location,1157
+Looking for a place to stay in Santa Croce Venice. Any suggestions?,provide_location,1158
+Looking for a place to stay in San Marco Venice. Any suggestions?,provide_location,1159
+Looking for a place to stay in San Marco Venice. Any suggestions?,provide_location,1160
+Looking for a place to stay in Castello Venice. Any suggestions?,provide_location,1161
+Looking for a place to stay in Cannaregio Venice. Any suggestions?,provide_location,1162
+Looking for a place to stay in San Marco Venice. Any suggestions?,provide_location,1163
+Looking for a place to stay in San Marco Venice. Any suggestions?,provide_location,1164
+Looking for a place to stay in Castello Venice. Any suggestions?,provide_location,1165
+Looking for a place to stay in Cannaregio Venice. Any suggestions?,provide_location,1166
+Looking for a place to stay in Santa Croce Venice. Any suggestions?,provide_location,1167
+Looking for a place to stay in Castello Venice. Any suggestions?,provide_location,1168
+Looking for a place to stay in San Marco Venice. Any suggestions?,provide_location,1169
+Looking for a place to stay in Dorsoduro Venice. Any suggestions?,provide_location,1170
+Looking for a place to stay in Cannaregio Venice. Any suggestions?,provide_location,1171
+Looking for a place to stay in Santa Croce Venice. Any suggestions?,provide_location,1172
+Looking for a place to stay in San Marco Venice. Any suggestions?,provide_location,1173
+Looking for a place to stay in Cannaregio Venice. Any suggestions?,provide_location,1174
+Looking for a place to stay in Dorsoduro Venice. Any suggestions?,provide_location,1175
+Looking for a place to stay in San Marco Venice. Any suggestions?,provide_location,1176
+Hello I would like to book a hotel room.,greeting,1177
+Hello I'm looking to reserve a hotel room.,greeting,1178
+Good day I need to book accommodation.,greeting,1179
+I'd like to book a hotel room.,book_hotel,1180
+I want to visit [City Name].,confirmation,1181
+I will visit from [Check in Date] until [Check out Date].,confirmation,1182
+I want to visit [City Name].,confirmation,1183
+I will visit from [Check in Date] until [Check out Date].,confirmation,1184
+I want to visit [City Name].,confirmation,1185
+I will visit from [Check in Date] until [Check out Date].,confirmation,1186
+I want to visit [City Name].,confirmation,1187
+I will visit from [Check in Date] until [Check out Date].,confirmation,1188
+I will visit from [Check in Date] until [Check out Date].,confirmation,1189
+I need to make a hotel reservation.,confirmation,1190
+I will visit from [Check in Date] until [Check out Date].,confirmation,1191
+I want to visit [City Name].,confirmation,1192
+I will visit from [Check in Date] until [Check out Date].,confirmation,1193
+I will visit from [Check in Date] until [Check out Date].,confirmation,1194
+I will visit from [Check in Date] until [Check out Date].,confirmation,1195
+This is a great choice!,confirmation,1196
+Yes my name is {name}. My email is {email} and my phone number is {phone number}.,confirmation,1197
+"""Yes please. Book it for me.""",confirmation,1198

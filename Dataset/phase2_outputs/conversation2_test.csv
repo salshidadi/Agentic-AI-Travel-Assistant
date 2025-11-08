@@ -1,0 +1,241 @@
+utterance,intent,source_row
+"I'd like something in Trevi Rome with a good rating. Budget is around $277 per night.""",confirmation,821
+Looking for a place to stay in UniÃ£o de Freguesias do Centro Porto. Any suggestions?,provide_location,894
+"I'd like something in Ludwigsvorstadt Munich with a good rating. Budget is around $85 per night.""",provide_location,590
+"What's the best way to start learning about blockchain? ""Starting with the basics of how blockchain technology works reading authoritative articles and experimenting with simple blockchain projects can be effective ways to learn about blockchain."" "" What's the best way to start learning about blockchain?",confirmation,56
+I want to visit [City Name].,confirmation,1192
+Does it include breakfast?,ask_info,702
+"I'd like something in 2nd arr. Paris with a good rating. Budget is around $185 per night.""",provide_location,510
+Does it include breakfast?,ask_info,228
+"""Hi I'm planning a"" trip to Munich and need a hotel.""",greeting,571
+"""Yes please. Book it for me.""",confirmation,185
+"""Yes please. Book it for me.""",confirmation,480
+"""I'd like something in Gare "" Luxembourg with a good rating. Budget is around â¬Â 112 per night.""",confirmation,303
+Looking for a place to stay in Hackney London. Any suggestions?,ask_info,834
+Looking for a place to stay in Castello Venice. Any suggestions?,provide_location,1121
+Looking for a place to stay in Altstadt - Lehel Munich. Any suggestions?,provide_location,981
+Looking for a place to stay in Westminster Borough London. Any suggestions?,ask_info,857
+Yes my name is {name}. My email is {email} and my phone number is {phone number}.,confirmation,101
+Looking for a place to stay in Mitte Berlin. Any suggestions?,provide_location,986
+"I'd like something in Heralkio City Centre Heraklio with a good rating. Budget is around $98 per night.""",provide_location,795
+"I'd like something in UniÃ£o de Freguesias do Centro Porto with a good rating. Budget is around â¬Â 52 per night.""",provide_location,359
+"""Yes please. Book it for me.""",confirmation,381
+Looking for a place to stay in Eixample Barcelona. Any suggestions?,provide_location,912
+Looking for a place to stay in Ville Haute Luxembourg. Any suggestions?,provide_location,867
+Does it include breakfast?,ask_info,511
+"""Hi I'm planning a"" trip to Frankfurt and need a hotel.""",greeting,660
+"""Yes please. Book it for me.""",confirmation,349
+Looking for a place to stay in Gare Luxembourg. Any suggestions?,provide_location,872
+Does it include breakfast?,ask_info,124
+"I'd like something in Mitte Berlin with a good rating. Budget is around $82 per night.""",confirmation,640
+"I'd like something in Westminster Borough London with a good rating. Budget is around ‰âÂåÊ256 per night.""",provide_location,79
+"""Hi I'm planning a"" trip to Hamburg and need a hotel.""",greeting,743
+Does it include breakfast?,ask_info,260
+Looking for a place to stay in Gianicolense Rome Any suggestions?,ask_info,1151
+Looking for a place to stay in Altona-Altstadt Hamburg. Any suggestions?,provide_location,1036
+"""Yes please. Book it for me.""",confirmation,285
+"""Hi I'm planning a"" trip to London and need a hotel. """,greeting,202
+Looking for a place to stay in Hamburg City Center Hamburg. Any suggestions?,provide_location,1043
+Looking for a place to stay in Heraklio. Any suggestions?,provide_location,1063
+How do neural networks work?,ask_info,45
+"""Hi I'm planning a"" trip to London and need a hotel.""",greeting,158
+"I'd like something in Altstadt - Lehel Munich with a good rating. Budget is around $77 per night.""",provide_location,548
+"""Hi I'm planning a"" trip to London and need a hotel.""",greeting,182
+Looking for a place to stay in Westminster Borough London. Any suggestions?,ask_info,852
+"I'd like something in 14th arr. Paris with a good rating. Budget is around $184 per night.""",provide_location,540
+Looking for a place to stay in Sants-MontjuÃ¯c Barcelona. Any suggestions?,provide_location,909
+"I'd like something in Westminster Borough London with a good rating. Budget is around ‰âÂåÊ76 per night.""",provide_location,119
+Does it include breakfast?,ask_info,388
+"""Hi I'm planning a"" trip to London and need a hotel.""",greeting,130
+Does it include breakfast?,ask_info,404
+"""Hi I'm planning a"" trip to Heraklio and need a hotel.""",greeting,766
+"I'd like something in Heraklio with a good rating. Budget is around $93 per night.""",confirmation,783
+"""Yes please. Book it for me.""",confirmation,329
+Looking for a place to stay in Sant MartÃ­ Barcelona. Any suggestions?,provide_location,929
+"""Hi I'm planning a"" trip to Porto and need a hotel.""",greeting,342
+"I'd like something in Heralkio City Centre Heraklio with a good rating. Budget is around $64 per night.""",provide_location,790
+"""I'd like something in Gare "" Luxembourg with a good rating. Budget is around â¬Â 145 per night.""",confirmation,319
+"""Hi I'm planning a"" trip to London and need a hotel.""",greeting,162
+Looking for a place to stay in Via Veneto Rome. Any suggestions?,provide_location,1085
+I will visit from [Check in Date] until [Check out Date].,confirmation,1184
+Looking for a place to stay in Cannaregio Venice. Any suggestions?,provide_location,1156
+Looking for a place to stay in Ludwigsvorstadt Munich. Any suggestions?,provide_location,982
+Does it include breakfast?,ask_info,192
+"""Yes please. Book it for me.""",confirmation,730
+"""Hi I'm planning a"" trip to Berlin and need a hotel.""",greeting,621
+"""Hi I'm planning a"" trip to Munich and need a hotel.""",greeting,561
+"""Hi I'm planning a"" trip to London and need a hotel.""",greeting,90
+Does it include breakfast?,ask_info,204
+Looking for a place to stay in Hamburg City Center Hamburg. Any suggestions?,provide_location,1053
+Looking for a place to stay in Frankfurt City Center (Old Town) Frankfurt. Any suggestions?,provide_location,1022
+"I'd like something in Lambeth London with a good rating. Budget is around ‰âÂåÊ92 per night. """,provide_location,114
+Looking for a place to stay in Hamburg. Any suggestions?,ask_info,1049
+Looking for a place to stay in Trionfale Rome. Any suggestions?,provide_location,1135
+"""Hi I'm planning a"" trip to Frankfurt and need a hotel.""",greeting,658
+"""Hi I'm planning a"" trip to Munich and need a hotel.""",greeting,555
+Looking for a place to stay in San Polo Venice. Any suggestions?,provide_location,1111
+"""Hi I'm planning a"" trip to Porto and need a hotel.""",greeting,386
+"I'd like something in Hammerbrook Hamburg with a good rating. Budget is around $63 per night.""",confirmation,707
+"I'd like something in 13th arr. Paris with a good rating. Budget is around $113 per night.""",provide_location,520
+"I'd like something in Eixample Barcelona with a good rating. Budget is around â¬Â 103 per night.""",provide_location,440
+"I'd like something in Friedrichshain-Kreuzberg Berlin with a good rating. Budget is around $92 per night.""",provide_location,615
+"""Hi I'm planning a"" trip to Frankfurt and need a hotel.""",greeting,680
+Does it include breakfast?,ask_info,372
+"""Yes please. Book it for me.""",confirmation,225
+"I'd like something in Heraklio with a good rating. Budget is around $72 per night.""",confirmation,782
+"""Hi I'm planning a"" trip to Frankfurt and need a hotel.""",greeting,696
+"I'd like something in UniÃ£o de Freguesias do Centro Porto with a good rating. Budget is around â¬Â 48 per night.""",provide_location,355
+"""Yes please. Book it for me. """,confirmation,103
+Looking for a place to stay in 14th arr. Paris. Any suggestions?,provide_location,952
+Looking for a place to stay in UniÃ£o de Freguesias do Centro Porto. Any suggestions?,provide_location,890
+"I'd like something in St. Georg Hamburg with a good rating. Budget is around $65 per night.""",provide_location,759
+Hello I would like to book a hotel room.,greeting,59
+"""Yes please. Book it for me.""",confirmation,703
+Looking for a place to stay in Trionfale Rome. Any suggestions?,provide_location,1091
+Looking for a place to stay in UniÃ£o de Freguesias do Centro Porto. Any suggestions?,provide_location,887
+I need to make a hotel reservation.,confirmation,1190
+Looking for a place to stay in Santa Croce Venice. Any suggestions?,provide_location,1172
+Looking for a place to stay in Heraklio. Any suggestions?,provide_location,1059
+"""Yes please. Book it for me.""",confirmation,165
+"""Hi I'm planning a"" trip to Munich and need a hotel.""",greeting,575
+Does it include breakfast?,ask_info,328
+Does it include breakfast?,ask_info,400
+Looking for a place to stay in Frankfurt City Center (Old Town) Frankfurt. Any suggestions?,provide_location,1019
+"""Yes please. Book it for me.""",confirmation,257
+Looking for a place to stay in Gallusviertel Frankfurt. Any suggestions?,provide_location,1029
+Looking for a place to stay in UniÃ£o de Freguesias do Centro Porto. Any suggestions?,provide_location,906
+Looking for a place to stay in Ludwigsvorstadt Munich. Any suggestions?,provide_location,973
+Looking for a place to stay in Rione Monti Rome. Any suggestions?,provide_location,1083
+Looking for a place to stay in Lambeth London. Any suggestions?,ask_info,838
+"""Yes please. Book it for me.""",confirmation,209
+Looking for a place to stay in Vaticano Prati Rome. Any suggestions?,provide_location,1147
+Can AI help in environmental conservation?,ask_info,39
+"""Hi I'm planning a"" trip to Berlin and need a hotel.""",greeting,601
+Looking for a place to stay in Luxembourg. Any suggestions?,provide_location,875
+Looking for a place to stay in UniÃ£o de Freguesias do Centro Porto. Any suggestions?,provide_location,898
+"""Hi I'm planning a"" trip to Frankfurt and need a hotel.""",greeting,670
+Looking for a place to stay in 14th arr. Paris. Any suggestions?,provide_location,938
+"""I'd like something in Gare "" Luxembourg with a good rating. Budget is around â¬Â 128 per night.""",confirmation,287
+"""Hi I'm planning a"" trip to Rome and need a hotel.""",greeting,812
+I will visit from [Check in Date] until [Check out Date].,confirmation,1188
+"""Hi I'm planning a"" trip to Porto and need a hotel.""",greeting,402
+"""Hi I'm planning a"" trip to Hamburg and need a hotel.""",greeting,714
+Looking for a place to stay in Eixample Barcelona. Any suggestions?,provide_location,921
+"""Hi I'm planning a"" trip to Luxembourg and need a hotel.""",greeting,254
+""" What are the benefits of meditation?",ask_info,26
+Looking for a place to stay in Hammerbrook Hamburg. Any suggestions?,provide_location,1037
+Looking for a place to stay in Eixample Barcelona. Any suggestions?,provide_location,930
+"I'd like something in Eixample Barcelona with a good rating. Budget is around â¬Â 120 per night.""",provide_location,438
+"""I'd like something in Gare "" Luxembourg with a good rating. Budget is around â¬Â 193 per night.""",confirmation,279
+Hello I'm looking to reserve a hotel room.,greeting,1
+"I'd like something in Ludwigsvorstadt Munich with a good rating. Budget is around $89 per night.""",provide_location,564
+"I'd like something in Mitte Berlin with a good rating. Budget is around $90 per night.""",confirmation,613
+Looking for a place to stay in Rione Monti Rome. Any suggestions?,provide_location,1137
+Looking for a place to stay in Castello Venice. Any suggestions?,provide_location,1124
+"I'd like something in Hamburg City Center Hamburg with a good rating. Budget is around $103 per night.""",confirmation,750
+"""Yes please. Book it for me.""",confirmation,516
+Looking for a place to stay in Trevi Rome. Any suggestions?,provide_location,1087
+Looking for a place to stay in Heralkio City Centre Heraklio. Any suggestions?,provide_location,1079
+"""Hi I'm planning a"" trip to Porto and need a hotel.""",greeting,406
+"""Hi I'm planning a"" trip to Frankfurt and need a hotel.""",greeting,651
+Does it include breakfast?,ask_info,168
+"I'd like something in UniÃ£o de Freguesias do Centro Porto with a good rating. Budget is around â¬Â 69 per night.""",provide_location,403
+Looking for a place to stay in Gare Luxembourg. Any suggestions?,provide_location,882
+Looking for a place to stay in Ciutat Vella Barcelona. Any suggestions?,provide_location,910
+"""Hi I'm planning a"" trip to Rome and need a hotel.""",greeting,799
+Looking for a place to stay in Dorsoduro Venice. Any suggestions?,provide_location,1170
+"I'd like something in Frankfurt City Center (Old Town) Frankfurt with a good rating. Budget is around $140 per night.""",provide_location,671
+"""Hi I'm planning a"" trip to Barcelona and need a hotel.""",greeting,451
+Looking for a place to stay in Ludwigsvorstadt Munich. Any suggestions?,provide_location,958
+"I'd like something in Westminster Borough London with a good rating. Budget is around ‰âÂåÊ122 per night.""",provide_location,151
+Looking for a place to stay in 5th arr. Paris. Any suggestions?,provide_location,937
+"I'd like something in Ville Haute Luxembourg with a good rating. Budget is around â¬Â 270 per night.""",provide_location,259
+"""Hi I'm planning a"" trip to Luxembourg and need a hotel.""",greeting,222
+"""Hi I'm planning a"" trip to Barcelona and need a hotel.""",greeting,437
+I will visit from [Check in Date] until [Check out Date].,confirmation,1195
+"I'd like something in Eixample Barcelona with a good rating. Budget is around â¬Â 145 per night.""",provide_location,434
+"""Hi I'm planning a"" trip to Luxembourg and need a hotel.""",greeting,198
+"""Yes please. Book it for me.""",confirmation,425
+Looking for a place to stay in Frankfurt City Center (Old Town) Frankfurt. Any suggestions?,provide_location,1013
+"""Yes please. Book it for me.""",confirmation,217
+"I'd like something in Frankfurt Airport Area Frankfurt with a good rating. Budget is around $107 per night.""",confirmation,661
+"I'd like something in Rione Monti Rome with a good rating. Budget is around $140 per night.""",confirmation,831
+"I'd like something in 14th arr. Paris with a good rating. Budget is around $102 per night.""",provide_location,490
+"I'd like something in Altstadt - Lehel Munich with a good rating. Budget is around $110 per night.""",provide_location,546
+"I'd like something in Luxembourg with a good rating. Budget is around â¬Â 66 per night.""",confirmation,307
+"I'd like something in Frankfurt City Center (Old Town) Frankfurt with a good rating. Budget is around $280 per night.""",provide_location,701
+Looking for a place to stay in Altstadt - Lehel Munich. Any suggestions?,provide_location,959
+"""Hi I'm planning a"" trip to Munich and need a hotel.""",greeting,545
+Does it include breakfast?,ask_info,176
+"""Hi I'm planning a"" trip to Frankfurt and need a hotel.""",greeting,656
+"""Yes please. Book it for me.""",confirmation,603
+"I'd like something in Rione Monti Rome with a good rating. Budget is around $272 per night.""",confirmation,825
+"""Hi I'm planning a"" trip to Hamburg and need a hotel.""",greeting,762
+This is a great choice!,confirmation,100
+Does it include breakfast?,ask_info,804
+Looking for a place to stay in UniÃ£o de Freguesias do Centro Porto. Any suggestions?,provide_location,892
+"I'd like something in Bonfim Porto with a good rating. Budget is around â¬Â 41 per night.""",provide_location,375
+Looking for a place to stay in Hamburg City Center (Old Town) Hamburg. Any suggestions?,provide_location,1041
+Hello I would like to book a hotel room.,greeting,0
+Looking for a place to stay in Mitte Berlin. Any suggestions?,provide_location,984
+"""Hi I'm planning a"" trip to Porto and need a hotel.""",greeting,410
+Does it include breakfast?,ask_info,384
+Looking for a place to stay in Ciutat Vella Barcelona. Any suggestions?,provide_location,923
+"I'd like something in St. Georg Hamburg with a good rating. Budget is around $109 per night.""",provide_location,736
+Does it include breakfast?,ask_info,272
+"""Yes please. Book it for me.""",confirmation,133
+Looking for a place to stay in Grund Luxembourg. Any suggestions?,provide_location,862
+Hello I'm looking to reserve a hotel room.,greeting,1178
+"I'd like something in Luxembourg with a good rating. Budget is around â¬Â 119 per night.""",confirmation,251
+Does it include breakfast?,ask_info,344
+Does it include breakfast?,ask_info,184
+Looking for a place to stay in Ciutat Vella Barcelona. Any suggestions?,provide_location,925
+"I'd like something in Hamburg City Center (Old Town) Hamburg with a good rating. Budget is around $89 per night.""",provide_location,705
+"I'd like something in Ostend Frankfurt with a good rating. Budget is around $88 per night.""",confirmation,665
+Looking for a place to stay in 14th arr. Paris. Any suggestions?,provide_location,956
+"""Yes please. Book it for me.""",confirmation,512
+I'd like to book a hotel room.,book_hotel,62
+Does it include breakfast?,ask_info,471
+Looking for a place to stay in Heralkio City Centre Heraklio. Any suggestions?,provide_location,1075
+"""Hi I'm planning a"" trip to Hamburg and need a hotel.""",greeting,754
+Looking for a place to stay in Heraklio. Any suggestions?,provide_location,1064
+"""Yes please. Book it for me.""",confirmation,321
+Yes my name is {name}. My email is {email} and my phone number is {phone number}.,confirmation,1197
+"""Hi I'm planning a"" trip to Barcelona and need a hotel.""",greeting,441
+Looking for a place to stay in Ludwigsvorstadt Munich. Any suggestions?,provide_location,976
+Does it include breakfast?,ask_info,623
+"I'd like something in 2nd arr. Paris with a good rating. Budget is around $171 per night.""",provide_location,502
+"""Hi I'm planning a"" trip to Heraklio and need a hotel.""",greeting,776
+"""Hi I'm planning a"" trip to Frankfurt and need a hotel.""",greeting,672
+I want to visit [City Name].,confirmation,74
+I will visit from [Check in Date] until [Check out Date].,confirmation,5
+"""Yes please. Book it for me.""",confirmation,401
+"I'd like something in Heralkio City Centre Heraklio with a good rating. Budget is around $128 per night.""",provide_location,771
+"""Yes please. Book it for me.""",confirmation,1198
+Does it include breakfast?,ask_info,619
+"I'd like something in Tower Hamlets London with a good rating. Budget is around ‰âÂåÊ21 per night.""",confirmation,135
+Looking for a place to stay in St. Georg Hamburg. Any suggestions?,provide_location,1046
+"""Yes please. Book it for me.""",confirmation,213
+Looking for a place to stay in Heralkio City Centre Heraklio. Any suggestions?,provide_location,1071
+"""Hi I'm planning a"" trip to Hamburg and need a hotel.""",greeting,718
+What are the top programming languages to learn in 2024?,ask_info,46
+Looking for a place to stay in San Marco Venice. Any suggestions?,provide_location,1115
+"I'd like something in Friedrichshain-Kreuzberg Berlin with a good rating. Budget is around $116 per night.""",provide_location,609
+Looking for a place to stay in Ciutat Vella Barcelona. Any suggestions?,provide_location,926
+"""Hi I'm planning a"" trip to Barcelona and need a hotel.""",greeting,453
+Looking for a place to stay in Ciutat Vella Barcelona. Any suggestions?,provide_location,920
+"I'd like something in Ciutat Vella Barcelona with a good rating. Budget is around â¬Â 150 per night.""",provide_location,460
+Looking for a place to stay in Luxembourg. Any suggestions?,provide_location,871
+"""Yes please. Book it for me.""",confirmation,273
+"I'd like something in Maxvorstadt Munich with a good rating. Budget is around $115 per night.""",confirmation,568
+Does it include breakfast?,ask_info,324
+"""Yes please. Book it for me.""",confirmation,753
+Looking for a place to stay in Tower Hamlets London. Any suggestions?,ask_info,847
+Does it include breakfast?,ask_info,208
+"I'd like something in 9th arr. Paris with a good rating. Budget is around $96 per night.""",provide_location,514
+Looking for a place to stay in 15th arr. Paris. Any suggestions?,provide_location,953
+I will visit from [Check in Date] until [Check out Date].,confirmation,1182
+"I'd like something in Ciutat Vella Barcelona with a good rating. Budget is around â¬Â 141 per night.""",provide_location,466
+"""Hi I'm planning a"" trip to Paris and need a hotel.""",greeting,541
+Looking for a place to stay in Frankfurt Airport Area Frankfurt. Any suggestions?,provide_location,1012
+"""Hi I'm planning a"" trip to Paris and need a hotel.""",greeting,521
